@@ -9,8 +9,17 @@ Taproot Assets (formerly Taro) is a new Taproot-powered protocol for issuing ass
 
 Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tree structure that allows developers to embed arbitrary asset metadata within an existing output. It uses Schnorr signatures for improved simplicity and scalability, and, importantly, works with multi-hop transactions over Lightning.
 
+# Lightning Labs Resources
+
+- [Documentation](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
+
+- [Code](https://github.com/lightninglabs/taproot-assets)
+
+- [Run client](https://docs.lightning.engineering/lightning-network-tools/taproot-assets/first-steps)
+
 ## Wallets
 
+- [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
 
 ## Exchanges
 
