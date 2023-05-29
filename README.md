@@ -1,4 +1,4 @@
-# Awesome-TaprootAssets
+# Awesome-Taproot Assets
 
 Awesome list with resources around Taproot Assets 
 
