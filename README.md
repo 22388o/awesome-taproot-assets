@@ -20,10 +20,16 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ## Wallets
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
+- [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
 
 ## Exchanges
 
 
 ## Projects
 
+- [Lightning Terminal: Support Taproot Assets via Testnet](https://github.com/lightninglabs/lightning-terminal)
+- [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
+- [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
+- [HabibTaro](https://github.com/habibitcoin/habibtaro)
+- [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
 
