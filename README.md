@@ -1,7 +1,8 @@
-# Awesome-Taproot Assets
+# Awesome Taproot Assets
 
 Awesome list with resources around Taproot Assets 
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## What is Taproot Assets? 
 
