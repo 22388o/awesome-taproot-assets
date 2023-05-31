@@ -36,6 +36,9 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
+- [Portico Exchange](https://github.com/PorticoExchange)
+- [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
+
 
 ## Projects
 
