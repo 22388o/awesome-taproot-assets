@@ -18,6 +18,16 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - [Run client](https://docs.lightning.engineering/lightning-network-tools/taproot-assets/first-steps)
 
+- [Tap into the Universe: Issue and Discover Assets on Bitcoin with the Taproot Assets Protocol](https://www.youtube.com/watch?v=8Qi7VOvKe5o)
+
+- [API Taproot Assets Protocol](https://lightning.engineering/api-docs/api/taproot-assets/)
+
+- [Taproot Assets: A New Protocol for Multi-Asset Bitcoin and Lightning](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
+
+## Tutorial
+
+- [ Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
+
 ## Wallets
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
