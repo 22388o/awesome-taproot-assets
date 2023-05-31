@@ -35,6 +35,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 ## Exchanges
 
+- [L2.Auction](https://l2.auction/)
 
 ## Projects
 
@@ -43,4 +44,5 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
+
 
