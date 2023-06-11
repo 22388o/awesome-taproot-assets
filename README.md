@@ -24,6 +24,10 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - [Taproot Assets: A New Protocol for Multi-Asset Bitcoin and Lightning](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
 
+## Articles
+
+- [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
+
 ## Tutorial
 
 - [ Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
