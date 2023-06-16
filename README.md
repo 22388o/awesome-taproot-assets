@@ -1,7 +1,7 @@
 # Awesome Taproot Assets
 
-Awesome list with resources around Taproot Assets 
-
+ A curated list of Tapprot Assets projects and resources 
+ 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## What is Taproot Assets? 
