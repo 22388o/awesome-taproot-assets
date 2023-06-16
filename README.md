@@ -24,6 +24,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - [Taproot Assets: A New Protocol for Multi-Asset Bitcoin and Lightning](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
 
+- [A Technical Overview of Virtual PSBTs in the Taproot Assets Protocol](https://lightning.engineering/posts/2023-06-14-virtual-psbt/)
+
 ## Articles
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
@@ -51,5 +53,6 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
+- [THNDR Games](https://www.thndr.games/)
 
 
