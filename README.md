@@ -37,7 +37,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Next Step To Widespread Bitcoin Adoption: Community Banks](https://bitcoinmagazine.com/technical/community-banks-improve-bitcoin-adoption)
 - [Why It’s Important To Build Stablecoins On Bitcoin](https://bitcoinmagazine.com/culture/important-to-build-stablecoins-on-bitcoin)
 - [Examining The Incentives Of Stablecoins On Bitcoin](https://bitcoinmagazine.com/technical/incentives-of-stablecoins-on-bitcoin)
-- [BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy](BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy)
+- [BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy](https://bitcoinmagazine.com/technical/world-needs-bitcoin-backed-stablecoins)
 - [The Path To A Bitcoin Economy: Decentralized Bitcoin-Backed Credit](https://bitcoinmagazine.com/culture/decentralized-bitcoin-backed-credit)
 - [Ordinals Have Proven Demand On Bitcoin, But Fees Will Push Users To Layer 2](https://bitcoinmagazine.com/culture/bitcoin-ordinal-problems-solved-by-layer-2)
 
