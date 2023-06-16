@@ -30,6 +30,16 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
 - [RGB And Taro, Both Putting Tokens On Bitcoin, Take Two Different Approaches To Development](https://bitcoinmagazine.com/technical/rgb-taro-putting-tokens-on-bitcoin)
+- [Addressing The Realities Of Taro’s Limitations](https://bitcoinmagazine.com/technical/addressing-realities-of-taros-limitations)
+- [The Scaling Problem For Lightning Lab’s Taro On The Bitcoin Blockchain](https://bitcoinmagazine.com/technical/scaling-problem-for-lightning-labs-taro)
+- [How Taro Brings Assets To Bitcoin Through Taproot And Lightning](https://bitcoinmagazine.com/technical/how-bitcoin-taro-protocol-works)
+- [Developers Can Now Issue Assets Like Stablecoins On Bitcoin](https://bitcoinmagazine.com/technical/taro-launches-stablecoins-on-bitcoin)
+- [Next Step To Widespread Bitcoin Adoption: Community Banks](https://bitcoinmagazine.com/technical/community-banks-improve-bitcoin-adoption)
+- [Why It’s Important To Build Stablecoins On Bitcoin](https://bitcoinmagazine.com/culture/important-to-build-stablecoins-on-bitcoin)
+- [Examining The Incentives Of Stablecoins On Bitcoin](https://bitcoinmagazine.com/technical/incentives-of-stablecoins-on-bitcoin)
+- [BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy](BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy)
+- [The Path To A Bitcoin Economy: Decentralized Bitcoin-Backed Credit](https://bitcoinmagazine.com/culture/decentralized-bitcoin-backed-credit)
+- [Ordinals Have Proven Demand On Bitcoin, But Fees Will Push Users To Layer 2](https://bitcoinmagazine.com/culture/bitcoin-ordinal-problems-solved-by-layer-2)
 
 
 ## Tutorial
