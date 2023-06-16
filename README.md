@@ -49,6 +49,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ## Projects
 
 - [Lightning Terminal: Support Taproot Assets via Testnet](https://github.com/lightninglabs/lightning-terminal)
+- [Lightning Node Connect (LNC)](https://github.com/lightninglabs/lightning-node-connect)
 - [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
