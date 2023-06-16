@@ -29,6 +29,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ## Articles
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
+- [RGB And Taro, Both Putting Tokens On Bitcoin, Take Two Different Approaches To Development](https://bitcoinmagazine.com/technical/rgb-taro-putting-tokens-on-bitcoin)
+
 
 ## Tutorial
 
