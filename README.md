@@ -52,6 +52,10 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
 
+## Explorer
+
+- [Taproot Assets Explorer](https://explorer.royllo.org/)
+
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
