@@ -68,5 +68,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
 - [THNDR Games](https://www.thndr.games/)
+- [Hayek Dynamics](https://hayekdynamics.com/)
+- [Royllo](https://www.royllo.org/)
 
 
