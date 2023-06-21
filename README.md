@@ -74,5 +74,6 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [THNDR Games](https://www.thndr.games/)
 - [Hayek Dynamics](https://hayekdynamics.com/)
 - [Royllo](https://www.royllo.org/)
+- [Joltz Rewards](https://joltzrewards.com/)
 
 
