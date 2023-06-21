@@ -56,6 +56,12 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - [Taproot Assets Explorer](https://explorer.royllo.org/)
 
+## Community
+
+- [Lightning Labs Telegram](https://t.me/lightninglab)
+- [Lightning Labs Slack](https://lightningcommunity.slack.com/join/shared_invite/zt-1pjbf93tz-cxIAWCIror78rOBBinAglg#/shared-invite/)
+- [Lightning Labs Twitter](https://twitter.com/lightning)
+
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
