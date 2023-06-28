@@ -4,6 +4,9 @@
  
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/b75f91c3-1b38-448b-b635-f271230edafa)
+
+
 ## What is Taproot Assets? 
 
 Taproot Assets (formerly Taro) is a new Taproot-powered protocol for issuing assets on the bitcoin blockchain that can be transferred over the Lightning Network for instant, high volume, low fee transactions. At its core, Taproot Assets taps into the security and stability of the bitcoin network and the speed, scalability, and low fees of Lightning.
