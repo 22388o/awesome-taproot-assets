@@ -19,6 +19,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Tokenized Securities
 - NFTs
 - Stablecoins
+- Atomic Swap
+- Submarine Swap
 
 ## Lightning Labs Resources
 
