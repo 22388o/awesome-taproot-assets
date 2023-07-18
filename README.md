@@ -84,19 +84,30 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
 
 
-## Projects
+## Tools
 
 - [Lightning Terminal: Support Taproot Assets via Testnet](https://github.com/lightninglabs/lightning-terminal)
 - [Lightning Node Connect (LNC)](https://github.com/lightninglabs/lightning-node-connect)
 - [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
+- [Royllo](https://www.royllo.org/)
+
+
+ ## Tokens and Stablecoins
+ 
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
+  
+ ## NFTs
+ 
 - [THNDR Games](https://www.thndr.games/)
+  
+## Tokenized Securities
+
 - [Hayek Dynamics](https://hayekdynamics.com/)
-- [Royllo](https://www.royllo.org/)
+
+## Rewards
+
 - [Joltz Rewards](https://joltzrewards.com/)
-- UB
-- Tomorrow
 
 
