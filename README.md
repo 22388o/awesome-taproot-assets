@@ -22,6 +22,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Atomic Swap
 - Explorers
 - Submarine Swap
+- Wallets
 
 ## Lightning Labs Resources
 
