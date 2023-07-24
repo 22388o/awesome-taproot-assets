@@ -27,7 +27,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 ## Tech Overview
 
-Little overview aroud Taproot Assets
+Little overview around Taproot Assets
 
 ### How works
 
