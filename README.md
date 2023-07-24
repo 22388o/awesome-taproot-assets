@@ -27,6 +27,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 ## Tech Overview
 
+Little overview aroud RGB 
+
 ### How works
 
 When minting a new asset, Taproot Assets will generate the relevant witness data, assign the asset to a key held by you and publish the corresponding bitcoin UTXO -- the minting transaction.
