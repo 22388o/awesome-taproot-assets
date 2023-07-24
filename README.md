@@ -25,6 +25,28 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Wallets
 - Rewards
 
+## Tech Overview
+
+### How works
+
+When minting a new asset, Taproot Assets will generate the relevant witness data, assign the asset to a key held by you and publish the corresponding bitcoin UTXO -- the minting transaction.
+
+The outpoint this minting transaction consumes becomes the genesis_point of the newly minted asset, acting as its unique identifier. Assets can be spent to a new recipient, who provides the sender with the necessary information encoded in their Taproot Asset address.
+
+To transact assets, the witnesses in the prior transaction are recommitted into one or multiple taproot outputs while the necessary witness data is passed to the recipient. Similar to bitcoin transactions, the remaining balance is spent back to the sender as a change output.
+
+### Architecture
+
+Taproot Assets are implemented as the Taproot Assets Daemon tapd and the Taproot Assets Command Line Interface tapcli. Additionally, tapd exposes a GRPC interface to allow for a direct integration into applications.
+
+Taproot Assets leverage several LND features including the Taproot wallet and signing capabilities. These facilities are accessed through LND’s GRPC.
+
+The Taproot Assets stack:
+
+**Bitcoin blockchain backend <-> LND <-> Taproot Assets**
+
+Custody of Taproot Assets is segmented across LND and Tapd to maximize security. LND holds the private key, which has had a taproot tweak applied to it, controlling the bitcoin UTXO holding the Taproot Asset. The taproot tweak on the other hand is held by Tapd. This increases the requirements for asset recovery as both the internal key as well as the taproot tweak are necessary to spend the output. This prevents LND from accidentally burning Taproot assets.
+
 ## Lightning Labs Resources
 
 - [Documentation](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
