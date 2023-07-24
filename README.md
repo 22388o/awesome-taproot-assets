@@ -59,6 +59,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - [Ordinals Have Proven Demand On Bitcoin, But Fees Will Push Users To Layer 2](https://bitcoinmagazine.com/culture/bitcoin-ordinal-problems-solved-by-layer-2)
 - [Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB and Taro](https://docsend.com/view/he8x9erkjmphphvn)
 - [What is a Taproot Asset Universe](https://thebitcoinmanual.com/articles/taproot-asset-universe/)
+- [Is Bitcoin Undervalued](https://blog.bitfinex.com/education/is_bitcoin_undervalued/)
 
 ## Tutorial
 
