@@ -119,6 +119,9 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [Royllo](https://www.royllo.org/)
 
+## Libraries
+
+- [Taproot Assets Lib JS](https://github.com/PorticoExchange/Taproot-Assets-Lib)
 
  ## Tokens and Stablecoins
  
