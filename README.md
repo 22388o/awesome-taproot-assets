@@ -118,6 +118,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [Royllo](https://www.royllo.org/)
+- Mega Mint
 
 ## Libraries
 
@@ -127,6 +128,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
  
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
+- Nostr Assets
   
  ## NFTs
  
