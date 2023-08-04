@@ -93,6 +93,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
+- [Joltz Wallet](https://www.loom.com/share/ea2edd0294054dae989db5f362f4a846?sid=31b9a7cf-cffe-4941-9aea-0c346b68b90c)
 
 ## Explorer
 
@@ -110,6 +111,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Portico Exchange](https://github.com/PorticoExchange)
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
 - [Nostrswap](https://www.nostrswap.com/)
+- [DFX Swiss](https://dfx.swiss/)
 
 
 ## Tools
@@ -119,7 +121,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [Royllo](https://www.royllo.org/)
-- Mega Mint
+- [Mega Mint](https://drive.google.com/file/d/1ojftCrY2mPx3C5EX-cyAPcsUrLbetRzE/view?resourcekey&pli=1)
 
 ## Libraries
 
@@ -129,11 +131,11 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
  
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
-- [Tao: Taproot Assets Web PoC](https://github.com/deezy-inc/tao)
-- Nostr Assets
+- [Tao](https://tao.deezy.io/)
+- [Nostr Assets Portocol](https://doc.nostrassets.com/)
 - Galaxy Digital
 - UB
-  
+
  ## NFTs
  
 - [THNDR Games](https://www.thndr.games/)
