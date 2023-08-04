@@ -129,6 +129,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
  
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
+- [Tao: Taproot Assets Web PoC](https://github.com/deezy-inc/tao)
 - Nostr Assets
 - Galaxy Digital
 - UB
