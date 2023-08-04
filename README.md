@@ -24,6 +24,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Submarine Swap
 - Wallets
 - Rewards
+- Mint Services
 
 ## Tech Overview
 
