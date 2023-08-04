@@ -25,6 +25,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Wallets
 - Rewards
 - Mint Services
+- Social media (accepting payments via Stablecoins or tokens)
 
 ## Tech Overview
 
