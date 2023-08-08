@@ -86,6 +86,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB and Taro](https://docsend.com/view/he8x9erkjmphphvn)
 - [What is a Taproot Asset Universe](https://thebitcoinmanual.com/articles/taproot-asset-universe/)
 - [Is Bitcoin Undervalued?](https://blog.bitfinex.com/education/is_bitcoin_undervalued/)
+- [Taproot Assets: Issuing Assets on Bitcoin](https://voltage.cloud/blog/lightning-network-use-cases/taproot-assets-on-bitcoin-and-lightning-network/)
 
 ## Tutorial
 
