@@ -92,6 +92,14 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [ Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
 
+
+## Videos
+
+- [Will Taproot Assets Be Good or Bad for Bitcoin?| E116](https://www.youtube.com/watch?v=Zrwv9TDNxSE)
+- [Leo Weese from Lightning Labs explains Taproot Assets (formerly Taro)](https://www.youtube.com/watch?v=NcMVcMu9k3M)
+- [Taro - Leo Weese - Adopting Bitcoin Day 1 - Galoy Stage](https://www.youtube.com/watch?v=TiyXT1JnyNc)
+
+
 ## Wallets
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
