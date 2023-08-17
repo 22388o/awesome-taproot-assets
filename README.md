@@ -17,6 +17,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ### Potential Use Case
 
 - Tokenized Securities
+- Tokenized Real State
+- Bitcoin as Collateral
 - NFTs
 - Stablecoins
 - Atomic Swap
