@@ -75,6 +75,10 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [BIP: Taproot Asset On Chain Addresses](https://github.com/bitcoin/bips/blob/c156b7691d8b0f3880b5e506712c2527f840d1b1/bip-tap-addr.mediawiki)
 
+- [Blip: Taproot Asset Protocol Channels](https://github.com/lightning/blips/blob/f60cfb7bdd6fa266f88b80f0f65a5d5541862ad6/blip-tap.md)
+
+- [[Lightning-dev] blip-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
+
 ## Articles
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
