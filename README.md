@@ -71,6 +71,10 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [Announcing Taro: A New Protocol for Multi-Asset Bitcoin and Lightning 🍠💱🌍](https://lightning.engineering/posts/2022-4-5-taro-launch/)
 
+- [[bitcoin-dev] BIP-????: The Taproot Assets Protoco](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021938.html)
+
+- [BIP: Taproot Asset On Chain Addresses](https://github.com/bitcoin/bips/blob/c156b7691d8b0f3880b5e506712c2527f840d1b1/bip-tap-addr.mediawiki)
+
 ## Articles
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
