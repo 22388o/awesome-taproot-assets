@@ -171,4 +171,8 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [Joltz Rewards](https://joltzrewards.com/)
 
+## Extra list
+
+- [awesome-taproot-asset by Discoco Protocol](https://github.com/Discoco-Protocol/awesome-taproot-asset)
+- [awesome taproot assets by Ben2077](https://github.com/ben2077/awesome-taproot-assets)
 
