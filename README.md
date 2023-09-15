@@ -119,7 +119,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Bitcoin Builders Conference:Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M&ab_channel=BitcoinBuildersConference)
 
 
-### Books
+## Books
 
 - [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
