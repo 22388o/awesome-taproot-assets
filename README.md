@@ -104,7 +104,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 
 
-### Specifications
+## Specifications
 
 - [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
 - [Taproot Assets Specification](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html)
