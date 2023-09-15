@@ -103,6 +103,12 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [ Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
 
 
+
+### Specifications
+
+- [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
+- [Taproot Assets Specification](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html)
+  
 ## Videos
 
 - [Will Taproot Assets Be Good or Bad for Bitcoin?| E116](https://www.youtube.com/watch?v=Zrwv9TDNxSE)
@@ -110,6 +116,14 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Taro - Leo Weese - Adopting Bitcoin Day 1 - Galoy Stage](https://www.youtube.com/watch?v=TiyXT1JnyNc)
 - [Taproot Assets and the Impact of Stablecoins on the Lightning Network | E119](https://www.youtube.com/watch?v=V3irumTQKao)
 - [Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M)
+- [Bitcoin Builders Conference:Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M&ab_channel=BitcoinBuildersConference)
+
+
+### Books
+
+- [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
+- [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
+- [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
 
 
 ## Wallets
