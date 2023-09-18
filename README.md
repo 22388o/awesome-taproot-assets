@@ -145,7 +145,6 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
-- [Portico Exchange](https://github.com/PorticoExchange)
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
 - [Nostrswap](https://www.nostrswap.com/)
 - [DFX Swiss](https://dfx.swiss/)
