@@ -160,9 +160,6 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Royllo](https://www.royllo.org/)
 - [Mega Mint](https://drive.google.com/file/d/1ojftCrY2mPx3C5EX-cyAPcsUrLbetRzE/view?resourcekey&pli=1)
 
-## Libraries
-
-- [Taproot Assets Lib JS](https://github.com/PorticoExchange/Taproot-Assets-Lib)
 
  ## Tokens and Stablecoins
  
