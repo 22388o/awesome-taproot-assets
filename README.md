@@ -146,7 +146,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [L2.Auction](https://l2.auction/)
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
-- [Nostr Assets Protocol](
+- [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 
 
