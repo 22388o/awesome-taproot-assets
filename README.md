@@ -146,7 +146,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [L2.Auction](https://l2.auction/)
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
-- [Nostrswap](https://www.nostrswap.com/)
+- [Nostr Assets Protocol](
 - [DFX Swiss](https://dfx.swiss/)
 
 
@@ -165,7 +165,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [HabibTaro](https://github.com/habibitcoin/habibtaro)
 - [Root-USD](https://github.com/D33r-Gee/rootUSD-Prototype)
 - [Tao](https://tao.deezy.io/)
-- [Nostr Assets Protocol](https://doc.nostrassets.com/)
+- [Nostr Assets Protocol](https://test.nostrassets.com/#/account)
 - Galaxy Digital
 - UB
 
