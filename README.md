@@ -117,6 +117,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Taproot Assets and the Impact of Stablecoins on the Lightning Network | E119](https://www.youtube.com/watch?v=V3irumTQKao)
 - [Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M)
 - [Bitcoin Builders Conference:Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M&ab_channel=BitcoinBuildersConference)
+- [Building on Taro, a Taproot-powered protocol for issuing bitcoin assets](https://www.youtube.com/watch?v=JNaryHu2mFc)
 
 
 ## Books
