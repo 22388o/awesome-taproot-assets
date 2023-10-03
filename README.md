@@ -79,7 +79,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [[Lightning-dev] blip-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
 
-- [Announcing LND 0.17 beta: Tapping into Taproot 🥕⚡]
+- [Announcing LND 0.17 beta: Tapping into Taproot 🥕⚡](https://lightning.engineering/posts/2023-10-03-lnd-0.17-launch/)
 
 ## Articles
 
