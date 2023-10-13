@@ -53,6 +53,10 @@ The Taproot Assets stack:
 
 Custody of Taproot Assets is segmented across LND and Tapd to maximize security. LND holds the private key, which has had a taproot tweak applied to it, controlling the bitcoin UTXO holding the Taproot Asset. The taproot tweak on the other hand is held by Tapd. This increases the requirements for asset recovery as both the internal key as well as the taproot tweak are necessary to spend the output. This prevents LND from accidentally burning Taproot assets.
 
+### Status software
+
+Taproot Assets is available in testnet, however is coming for mainnet
+
 ## Lightning Labs Resources
 
 - [Documentation](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
