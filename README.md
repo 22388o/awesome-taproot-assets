@@ -55,7 +55,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 ### Status software
 
-Taproot Assets is available in testnet, however is coming for mainnet
+Taproot Assets is available in testnet, however is coming for mainnet with version [v0.3.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0-alpha.rc1)
 
 ## Lightning Labs Resources
 
