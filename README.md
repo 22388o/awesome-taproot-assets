@@ -214,6 +214,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - Joltz Rewards
 - Hayek Dynamics
 - UXUY
+- Speed
 
 ## Extra list
 
