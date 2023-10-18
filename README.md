@@ -139,6 +139,7 @@ Taproot Assets is available in testnet, however is coming for mainnet with versi
 - [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
 - [Joltz Wallet](https://www.loom.com/share/ea2edd0294054dae989db5f362f4a846?sid=31b9a7cf-cffe-4941-9aea-0c346b68b90c)
+- [UXUY](https://uxuy.com/)
 
 ## Explorer
 
