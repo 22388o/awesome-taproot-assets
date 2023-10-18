@@ -189,6 +189,22 @@ Taproot Assets is available in testnet, however is coming for mainnet with versi
 
 - [Joltz Rewards](https://joltzrewards.com/)
 
+## Companies support Taproot Assets
+
+- Lightning Labs
+- L2.Auction
+- Tiramisu wallet
+- Nostr Assets Protocol
+- DFX Swiss
+- Galaxy Digital
+- Polar
+- Royllo
+- Deezy Inc
+- UB
+- THNDR Games
+- Joltz Rewards
+- Hayek Dynamics
+
 ## Extra list
 
 - [awesome-taproot-asset by Discoco Protocol](https://github.com/Discoco-Protocol/awesome-taproot-asset)
