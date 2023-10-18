@@ -156,6 +156,7 @@ Taproot Assets is available in testnet, however is coming for mainnet with versi
 - [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
+- [UXUY](https://uxuy.com/)
 
 
 ## Tools
@@ -204,6 +205,7 @@ Taproot Assets is available in testnet, however is coming for mainnet with versi
 - THNDR Games
 - Joltz Rewards
 - Hayek Dynamics
+- UXUY
 
 ## Extra list
 
