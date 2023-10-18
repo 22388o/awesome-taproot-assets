@@ -151,6 +151,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 ## Explorer
 
 - [Taproot Assets Explorer](https://explorer.royllo.org/)
+- [Universe Taproot Assets](https://universe.lightning.finance/)
 
 ## Community
 
