@@ -55,7 +55,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 ### Status software
 
-Taproot Assets is available in testnet, however is coming for mainnet with version [v0.3.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0-alpha.rc1)
+Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0)
 
 ## Lightning Labs Resources
 
@@ -104,6 +104,7 @@ Taproot Assets is available in testnet, however is coming for mainnet with versi
 - [Is Bitcoin Undervalued?](https://blog.bitfinex.com/education/is_bitcoin_undervalued/)
 - [Taproot Assets: Issuing Assets on Bitcoin](https://voltage.cloud/blog/lightning-network-use-cases/taproot-assets-on-bitcoin-and-lightning-network/)
 - [What is Taro in Bitcoin](https://river.com/learn/what-is-taro-in-bitcoin/)
+- [Taproot Assets on Mainnet: A New Era for Bitcoin and Beyond 🌅](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 
 ## Tutorial
 
