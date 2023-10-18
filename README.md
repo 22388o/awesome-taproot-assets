@@ -85,6 +85,9 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Announcing LND 0.17 beta: Tapping into Taproot 🥕⚡](https://lightning.engineering/posts/2023-10-03-lnd-0.17-launch/)
 
+- [Taproot Assets on Mainnet: A New Era for Bitcoin and Beyond 🌅](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
+
+
 ## Articles
 
 - [Understanding Taproot Assets Protocol](https://medium.com/@nayuta-gondo/understanding-taproot-assets-protocol-e2dfe3fc1e07)
