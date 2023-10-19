@@ -87,6 +87,8 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Taproot Assets on Mainnet: A New Era for Bitcoin and Beyond 🌅](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 
+- [[bitcoin-dev] Taproot Assets on Mainnet: Announcing tapd v0.3.0-alpha](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022019.html)
+
 
 ## Articles
 
@@ -151,7 +153,8 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 ## Explorer
 
 - [Taproot Assets Explorer](https://explorer.royllo.org/)
-- [Universe Taproot Assets](https://universe.lightning.finance/)
+- [Universe Taproot Assets - testnet](https://testnet.universe.lightning.finance/v1/taproot-assets/universe/roots)
+- [Universe Taproot Assets - mainnet](https://universe.lightning.finance/v1/taproot-assets/universe/roots)
 
 ## Community
 
