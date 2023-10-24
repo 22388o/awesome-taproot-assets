@@ -173,6 +173,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
+- [Spark Exchange](https://redpill.exchange/register)
 
 
 ## Tools
@@ -223,6 +224,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - Hayek Dynamics
 - UXUY
 - Speed
+- Spark Exchange
 
 ## Extra list
 
