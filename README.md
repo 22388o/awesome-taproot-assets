@@ -30,7 +30,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Social media (accepting payments via Stablecoins or tokens)
 - Decentralized Exchange via Lightning Node
 - Exchanges with centralized solutions
-- Lightning Service Provier for Taproot Assets
+- Lightning Service Provider for Taproot Assets
 
 
 ## Tech Overview
