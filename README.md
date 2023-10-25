@@ -208,24 +208,28 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Joltz Rewards](https://joltzrewards.com/)
 
+## Development
+
+- [Polar](https://lightningpolar.com)
+
 ## Companies support Taproot Assets
 
-- Lightning Labs
-- L2.Auction
-- Tiramisu wallet
-- Nostr Assets Protocol
-- DFX Swiss
-- Galaxy Digital
-- Polar
-- Royllo
-- Deezy Inc
+- [Lightning Labs](https://lightning.engineering/)
+- [L2.Auction](https://l2.auction/)
+- [Tiramisu wallet](https://mainnet.tiramisuwallet.com/walletapp/)
+- [Nostr Assets Protocol](https://test.nostrassets.com/#/account)
+- [DFX Swiss](https://dfx.swiss/)
+- [Galaxy Digital](https://www.galaxy.com/)
+- [Polar](https://lightningpolar.com)
+- [Royllo](https://www.royllo.org/)
+- [Deezy Inc](https://deezy.io/)
 - UB
-- THNDR Games
-- Joltz Rewards
-- Hayek Dynamics
-- UXUY
-- Speed
-- Spank Exchange
+- [THNDR Games](https://www.thndr.games/)
+- [Joltz Rewards](https://joltzrewards.com/)
+- [Hayek Dynamics](https://hayekdynamics.com/)
+- [UXUY](https://uxuy.com/)
+- [Speed](https://www.speed.app/)
+- [Spank Exchange](https://redpill.exchange/home)
 
 ## Extra list
 
