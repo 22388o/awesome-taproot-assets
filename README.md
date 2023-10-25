@@ -34,6 +34,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Virtual Machine (VM)
 - NFT Marketplace
 - OTC Exchange
+- Cloud Service
 
 
 ## Tech Overview
@@ -167,7 +168,11 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Lightning Labs Telegram](https://t.me/lightninglab)
 - [Lightning Labs Slack](https://lightningcommunity.slack.com/join/shared_invite/zt-1pjbf93tz-cxIAWCIror78rOBBinAglg#/shared-invite/)
-- [Lightning Labs Twitter](https://twitter.com/lightning)
+- [Lightning Labs Twitter(X)](https://twitter.com/lightning)
+
+### Cloud
+
+- [Voltage](https://voltage.cloud/)
 
 ## Exchanges
 
@@ -232,6 +237,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
 - [Spank Exchange](https://redpill.exchange/home)
+- [Voltage](https://voltage.cloud/)
 
 ## Extra list
 
