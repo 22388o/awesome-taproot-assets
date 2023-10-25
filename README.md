@@ -170,7 +170,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Lightning Labs Slack](https://lightningcommunity.slack.com/join/shared_invite/zt-1pjbf93tz-cxIAWCIror78rOBBinAglg#/shared-invite/)
 - [Lightning Labs Twitter(X)](https://twitter.com/lightning)
 
-### Cloud
+## Cloud
 
 - [Voltage](https://voltage.cloud/)
 
