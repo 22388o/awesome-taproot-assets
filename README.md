@@ -97,6 +97,16 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [[bitcoin-dev] Taproot Assets on Mainnet: Announcing tapd v0.3.0-alpha](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022019.html)
 
+- [Entering the Bitcoin Renaissance: Making Bitcoin and Lightning Multi-Asset Networks 🌅💡](https://lightninglabs.substack.com/p/entering-the-bitcoin-renaissance)
+
+- [The Next Frontiers of Lightning: Taproot Assets, Nostr, and AI, Oh My! ⚡️🥕🤖](https://lightninglabs.substack.com/p/the-next-frontiers-of-lightning-taproot)
+
+- [To Bitcoin and Beyond: How Taro Expands the Lightning Universe 🌌⚡️](https://lightninglabs.substack.com/p/to-bitcoin-and-beyond-how-taro-expands)
+
+- [Decentralizing Global FX With Taro: How Bitcoin Renders "Cross-Border" Payments Obsolete 🍠💱](https://lightninglabs.substack.com/p/decentralizing-global-fx-with-taro)
+
+- [Bitcoinizing the Dollar, and the World, with Lightning 💸⚡🌍](https://lightninglabs.substack.com/p/bitcoinizing-the-dollar-and-the-world)
+
 
 ## Articles
 
