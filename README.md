@@ -151,6 +151,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M)
 - [Bitcoin Builders Conference:Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M&ab_channel=BitcoinBuildersConference)
 - [Building on Taro, a Taproot-powered protocol for issuing bitcoin assets](https://www.youtube.com/watch?v=JNaryHu2mFc)
+- [ Bitcoin's Taproot Assets Protocol w/ Ryan Gentry (BTC153)](https://www.youtube.com/watch?v=DhL0QLyq9jw)
 
 
 ## Books
