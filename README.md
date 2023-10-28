@@ -130,6 +130,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Taproot Assets on Mainnet: A New Era for Bitcoin and Beyond 🌅](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 - [UXUY Implements Bitcoin Lightning Node to Serve Multi-Chain Trading for Taproot Assets](https://finance.yahoo.com/news/uxuy-implements-bitcoin-lightning-node-094000803.html)
 - [Lightning Labs Rolls Out Taproot Assets Mainnet Alpha](https://bitcoinmagazine.com/technical/lightning-labs-rolls-out-taproot-assets-mainnet-alpha)
+- [All of a Sudden, It’s All About Bitcoin](https://www.coindesk.com/tech/2023/10/25/all-of-a-sudden-its-all-about-bitcoin/)
 
 ## Tutorial
 
