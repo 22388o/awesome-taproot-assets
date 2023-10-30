@@ -205,6 +205,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
 - [Royllo](https://www.royllo.org/)
 - [Mega Mint](https://drive.google.com/file/d/1ojftCrY2mPx3C5EX-cyAPcsUrLbetRzE/view?resourcekey&pli=1)
+- [LnTap](https://github.com/uxuycom/lntap)
 
 
  ## Tokens and Stablecoins
