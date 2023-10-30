@@ -165,7 +165,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 ## Wallets
 
-- [Tiramisu Wallet: Mint, send, Exchange](https://testnet.tarowallet.net/walletapp/)
+- [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
 - [Joltz Wallet](https://www.loom.com/share/ea2edd0294054dae989db5f362f4a846?sid=31b9a7cf-cffe-4941-9aea-0c346b68b90c)
 - [UXUY](https://uxuy.com/)
@@ -190,7 +190,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
-- [Tiramisu Wallet](https://mainnet.tarowallet.net/walletapp/)
+- [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
