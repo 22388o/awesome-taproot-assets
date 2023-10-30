@@ -190,7 +190,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
-- [Tiramisu Wallet](https://testnet.tarowallet.net/walletapp/)
+- [Tiramisu Wallet](https://mainnet.tarowallet.net/walletapp/)
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
@@ -237,7 +237,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Lightning Labs](https://lightning.engineering/)
 - [L2.Auction](https://l2.auction/)
 - [Tiramisu wallet](https://mainnet.tiramisuwallet.com/walletapp/)
-- [Nostr Assets Protocol](https://test.nostrassets.com/#/account)
+- [Nostr Assets Protocol](http://mainnet.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [Galaxy Digital](https://www.galaxy.com/)
 - [Polar](https://lightningpolar.com)
