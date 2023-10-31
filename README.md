@@ -20,7 +20,12 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Tokenized Real State
 - Bitcoin as Collateral
 - NFTs
-- Stablecoins
+- NFT Marketplace
+- NFT auction
+- Crowdfunding
+- Stablecoins (aka. Centralized like USDC and USDT)
+- Stablecoins algorithm
+- Sythentic stablecoins
 - Atomic Swap
 - Explorers
 - Submarine Swap
