@@ -199,7 +199,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 ## Tools
 
-- [Lightning Terminal: Support Taproot Assets via Testnet](https://github.com/lightninglabs/lightning-terminal)
+- [Lightning Terminal: Support Taproot Assets](https://github.com/lightninglabs/lightning-terminal)
 - [Lightning Node Connect (LNC)](https://github.com/lightninglabs/lightning-node-connect)
 - [Polar: Support Taproot Assets via Testnet](https://github.com/jamaljsr/polar)
 - [Lightning-TaprootAssets](https://github.com/jacohend/ltd)
