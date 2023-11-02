@@ -40,6 +40,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - NFT Marketplace
 - OTC Exchange
 - Cloud Service
+- APIs
 
 
 ## Tech Overview
