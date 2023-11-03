@@ -168,6 +168,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
+ - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with Taproot Assets
 - [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
 
 
