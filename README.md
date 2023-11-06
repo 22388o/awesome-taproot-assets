@@ -138,6 +138,8 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Lightning Labs Rolls Out Taproot Assets Mainnet Alpha](https://bitcoinmagazine.com/technical/lightning-labs-rolls-out-taproot-assets-mainnet-alpha)
 - [All of a Sudden, It’s All About Bitcoin](https://www.coindesk.com/tech/2023/10/25/all-of-a-sudden-its-all-about-bitcoin/)
 - [Taking stock of BTC ecological protocols, which protocols can win the last prize?](https://www.binance.com/en-IN/feed/post/1516603?ref=48152048)
+- [Lightning Strikes Twice: How Taproot Assets Electrify Bitcoin's Future](https://lightningnetwork.plus/posts/481)
+- [Taproot Assets on Mainnet: A Brief Overview](https://lightningnetwork.plus/posts/465)
 
 ## Tutorial
 
