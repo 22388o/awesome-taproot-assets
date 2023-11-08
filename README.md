@@ -271,6 +271,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Spank Exchange](https://spank.exchange/)
 - [Voltage](https://voltage.cloud/)
 - [Lightning Network+](https://lightningnetwork.plus/)
+- [Bipa](https://bipa.app/)
 
 ## Extra list
 
