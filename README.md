@@ -145,10 +145,11 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 ## Tutorial
 
-- [ Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
+- [Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
 - [Tapping into Taproot Assets #1: Install from Source ](https://www.youtube.com/watch?v=Z7KLo-pGBJA&t=9s)
 - [Tapping into Taproot Assets #2: Prototype with Polar](https://www.youtube.com/watch?v=pYh-4EfdZaM)
-- [ Tapping into Taproot Assets #3: Launch with Litd ](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
+- [Tapping into Taproot Assets #3: Launch with Litd ](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
+- [Tapping into Taproot Assets #4: Join a Universe Federation](https://www.youtube.com/watch?v=o6U812eSE_Q)
 
 
 
@@ -170,6 +171,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #1: Install from Source ](https://www.youtube.com/watch?v=Z7KLo-pGBJA&t=9s)
 - [Tapping into Taproot Assets #2: Prototype with Polar](https://www.youtube.com/watch?v=pYh-4EfdZaM)
 - [ Tapping into Taproot Assets #3: Launch with Litd ](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
+- [Tapping into Taproot Assets #4: Join a Universe Federation](https://www.youtube.com/watch?v=o6U812eSE_Q)
 
 
 ## Books
