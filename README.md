@@ -206,6 +206,10 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 - [Voltage](https://voltage.cloud/)
 
+## Nodes
+
+- [LND](https://github.com/lightningnetwork/lnd)
+
 ## Exchanges
 
 - [L2.Auction](https://l2.auction/)
