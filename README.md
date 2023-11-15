@@ -150,6 +150,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #2: Prototype with Polar](https://www.youtube.com/watch?v=pYh-4EfdZaM)
 - [Tapping into Taproot Assets #3: Launch with Litd ](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
 - [Tapping into Taproot Assets #4: Join a Universe Federation](https://www.youtube.com/watch?v=o6U812eSE_Q)
+- [Tapping into Taproot Assets #5: Mint from the CLI ](https://www.youtube.com/watch?v=FccI6j0mxuE)
 
 
 
@@ -172,6 +173,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #2: Prototype with Polar](https://www.youtube.com/watch?v=pYh-4EfdZaM)
 - [ Tapping into Taproot Assets #3: Launch with Litd ](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
 - [Tapping into Taproot Assets #4: Join a Universe Federation](https://www.youtube.com/watch?v=o6U812eSE_Q)
+- [Tapping into Taproot Assets #5: Mint from the CLI ](https://www.youtube.com/watch?v=FccI6j0mxuE)
 
 
 ## Books
