@@ -144,6 +144,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Exploring the Multi-Asset Issuance Mechanism of Taproot Assets](https://wublock.substack.com/p/exploring-the-multi-asset-issuance)
 - [Lightning Labs lança Taproot Assets para introduzir stablecoins e RWAs na blockchain do Bitcoin ](https://br.cointelegraph.com/news/lightning-labs-releases-taproot-assets-alpha-bringing-stablecoins-to-bitcoin)
 - [Comparing BRC20 and Taproot Assets: Market Speculation vs Technical Advancement](https://wublock.substack.com/p/comparing-brc20-and-taproot-assets)
+- [Looking at the evolution and challenges of BTC expansion from the perspective of asset issuance](https://web3caff.com/zh_tc/archives/76817)
 
 ## Tutorial
 
