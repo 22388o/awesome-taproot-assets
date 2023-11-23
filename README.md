@@ -157,9 +157,6 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #6: Mint from the API ](https://www.youtube.com/watch?v=IL4ojWyFPSk)
 - [Tapping into Taproot Assets #7: Send from the CLI ](https://www.youtube.com/watch?v=o30AiqbsYhw)
 
-
-
-
 ## Specifications
 
 - [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
@@ -205,7 +202,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Taproot Assets Explorer](https://explorer.royllo.org/)
 - [Universe Taproot Assets by Lightning Labs](https://terminal.lightning.engineering/assets/mainnet/index.html)
 - [Universe Taproot Assets by UXUY](https://uxuy.com/taproot)
-- [Universe Taproot Assets by Tiramisu wallet](universe.tiramisuwallet.com)
+- [Universe Taproot Assets by Tiramisu wallet](https://universe.tiramisuwallet.com)
 
 ## Community
 
