@@ -24,7 +24,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - NFT auction
 - Crowdfunding
 - Stablecoins (aka. Centralized like USDC and USDT)
-- Stablecoins algorithm
+- Stablecoins algorithm 
 - Sythentic stablecoins
 - Atomic Swap
 - Explorers
@@ -41,6 +41,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - OTC Exchange
 - Cloud Service
 - APIs
+- GameFi
 
 
 ## Tech Overview
