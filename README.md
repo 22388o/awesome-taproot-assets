@@ -157,6 +157,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #5: Mint from the CLI ](https://www.youtube.com/watch?v=FccI6j0mxuE)
 - [Tapping into Taproot Assets #6: Mint from the API ](https://www.youtube.com/watch?v=IL4ojWyFPSk)
 - [Tapping into Taproot Assets #7: Send from the CLI ](https://www.youtube.com/watch?v=o30AiqbsYhw)
+- [Tapping into Taproot Assets #8: Send from the API](https://www.youtube.com/watch?v=UEaNXu8me24)
 
 ## Specifications
 
@@ -180,6 +181,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #5: Mint from the CLI ](https://www.youtube.com/watch?v=FccI6j0mxuE)
 - [Tapping into Taproot Assets #6: Mint from the API ](https://www.youtube.com/watch?v=IL4ojWyFPSk)
 - [Tapping into Taproot Assets #7: Send from the CLI ](https://www.youtube.com/watch?v=o30AiqbsYhw)
+- [Tapping into Taproot Assets #8: Send from the API](https://www.youtube.com/watch?v=UEaNXu8me24)
 
 
 ## Books
