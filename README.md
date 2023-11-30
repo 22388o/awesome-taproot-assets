@@ -141,7 +141,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Taking stock of BTC ecological protocols, which protocols can win the last prize?](https://www.binance.com/en-IN/feed/post/1516603?ref=48152048)
 - [Lightning Strikes Twice: How Taproot Assets Electrify Bitcoin's Future](https://lightningnetwork.plus/posts/481)
 - [Taproot Assets on Mainnet: A Brief Overview](https://lightningnetwork.plus/posts/465)
-- [Off-chain transfers: The evolution of the Bitcoin Asset Protocol](https://mirror.xyz/0x5CCF44ACd0D19a97ad5aF0da492AC0388469DfE9/_k3vtpI7a5cQn5iISH7-riECpyudfI4BTeeeBMwNYDQ)
+ - [Off-Chain Transactions: The Evolution of Bitcoin Asset Protocols](https://mirror.xyz/0x5CCF44ACd0D19a97ad5aF0da492AC0388469DfE9/h7XChxETK-cBfGdc0sTq_cCuWeo13-sp1j-g0ZYoYdc)
 - [Exploring the Multi-Asset Issuance Mechanism of Taproot Assets](https://wublock.substack.com/p/exploring-the-multi-asset-issuance)
 - [Lightning Labs lança Taproot Assets para introduzir stablecoins e RWAs na blockchain do Bitcoin ](https://br.cointelegraph.com/news/lightning-labs-releases-taproot-assets-alpha-bringing-stablecoins-to-bitcoin)
 - [Comparing BRC20 and Taproot Assets: Market Speculation vs Technical Advancement](https://wublock.substack.com/p/comparing-brc20-and-taproot-assets)
