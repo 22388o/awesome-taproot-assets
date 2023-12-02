@@ -18,6 +18,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 
 - Tokenized Securities
 - Tokenized Real State
+- Smart contracts
 - Bitcoin as Collateral
 - NFTs
 - NFT Marketplace
