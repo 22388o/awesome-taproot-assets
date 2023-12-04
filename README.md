@@ -281,7 +281,6 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Polar](https://lightningpolar.com)
 - [Royllo](https://www.royllo.org/)
 - [Deezy Inc](https://deezy.io/)
-- UB
 - [THNDR Games](https://www.thndr.games/)
 - [Joltz Rewards](https://joltzrewards.com/)
 - [Hayek Dynamics](https://hayekdynamics.com/)
@@ -291,6 +290,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Voltage](https://voltage.cloud/)
 - [Lightning Network+](https://lightningnetwork.plus/)
 - [Bipa](https://bipa.app/)
+- [Diamond Hands](https://www.diamondhands.community)
 
 ## Extra list
 
