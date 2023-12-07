@@ -162,6 +162,8 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #8: Send from the API](https://www.youtube.com/watch?v=UEaNXu8me24)
 - [Tapping into Taproot Assets #9: Burn from the CLI](https://youtu.be/qBTGxSHpyDo?si=TbbFD85yN270lt1B)
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
+- [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
+
 ## Specifications
 
 - [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
@@ -187,6 +189,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Tapping into Taproot Assets #8: Send from the API](https://www.youtube.com/watch?v=UEaNXu8me24)
 - [Tapping into Taproot Assets #9: Burn from the CLI](https://youtu.be/qBTGxSHpyDo?si=TbbFD85yN270lt1B)
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
+- [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
   
 ## Books
 
