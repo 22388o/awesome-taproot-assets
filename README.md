@@ -209,7 +209,8 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 ## Explorer
 
-- [Taproot Assets Explorer](https://explorer.royllo.org/)
+- [Taproot Assets Explorer by Rollo](https://explorer.royllo.org/)
+- [TapasIndex](https://www.tapasindex.com/)
 - [Universe Taproot Assets by Lightning Labs](https://terminal.lightning.engineering/assets/mainnet/index.html)
 - [Universe Taproot Assets by UXUY](https://uxuy.com/taproot)
 - [Universe Taproot Assets by Tiramisu wallet](https://universe.tiramisuwallet.com)
