@@ -297,6 +297,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Lightning Network+](https://lightningnetwork.plus/)
 - [Bipa](https://bipa.app/)
 - [Diamond Hands](https://www.diamondhands.community)
+- [Node Runners Brasil](https://noderunnersbrasil.com.br/)
 
 ## Extra list
 
