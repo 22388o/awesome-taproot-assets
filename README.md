@@ -236,7 +236,6 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
-- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace)
 
 
 ## Tools
@@ -292,7 +291,6 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Hayek Dynamics](https://hayekdynamics.com/)
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
-- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace)
 - [Voltage](https://voltage.cloud/)
 - [Lightning Network+](https://lightningnetwork.plus/)
 - [Bipa](https://bipa.app/)
