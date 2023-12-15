@@ -236,6 +236,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
+- [Lightning Assets](https://www.lightningassets.art/#/account)
 
 
 ## Tools
@@ -296,6 +297,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Bipa](https://bipa.app/)
 - [Diamond Hands](https://www.diamondhands.community)
 - [Node Runners Brasil](https://noderunnersbrasil.com.br/)
+- [Lightning Assets](https://www.lightningassets.art/#/account)
 
 ## Extra list
 
