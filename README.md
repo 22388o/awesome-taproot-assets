@@ -304,6 +304,11 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [awesome-taproot-asset by Discoco Protocol](https://github.com/Discoco-Protocol/awesome-taproot-asset)
 - [awesome taproot assets by Ben2077](https://github.com/ben2077/awesome-taproot-assets)
 
+## Disclaimer
+
+Authors of this list is not responsible for eventual issues with third party projects be trading, speculation or any other thing. 
+
+Please do your own research
 
 ## Contributors
 
