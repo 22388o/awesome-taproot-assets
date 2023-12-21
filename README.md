@@ -151,6 +151,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Taproot Assets Can Turn Bitcoin Into A Multi-Asset Chain](https://bitcoinmagazine.com/technical/taproot-assets-can-turn-bitcoin-into-a-multi-asset-chain)
 - [Decoding the Complex Landscape of Bitcoin Layer 2: Navigating Challenges and Building Narratives](https://wublock.substack.com/p/decoding-the-complex-landscape-of)
 - [What is the Taproot Assets Protocol?](https://trustmachines.co/learn/what-is-the-taproot-assets-protocol-by-li/)
+- [CGV Research | From Colored Coins, Mastercoin/Omni to Ordinals/BRC20, a Comprehensive Analysis of Technological Evolution in the Bitcoin Ecosystem](https://wublock.substack.com/p/cgv-research-from-colored-coins-mastercoinomni)
   
 ## Tutorial
 
