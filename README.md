@@ -150,6 +150,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Evolution and challenge of BTC expansion from asset issuance](https://medium.com/@ACCapital1/evolution-and-challenge-of-btc-expansion-from-asset-issuance-d8caba8aeb07)
 - [Taproot Assets Can Turn Bitcoin Into A Multi-Asset Chain](https://bitcoinmagazine.com/technical/taproot-assets-can-turn-bitcoin-into-a-multi-asset-chain)
 - [Decoding the Complex Landscape of Bitcoin Layer 2: Navigating Challenges and Building Narratives](https://wublock.substack.com/p/decoding-the-complex-landscape-of)
+- [What is the Taproot Assets Protocol?](https://trustmachines.co/learn/what-is-the-taproot-assets-protocol-by-li/)
   
 ## Tutorial
 
@@ -200,7 +201,10 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with Taproot Assets
 - [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
 
+## Libraries
 
+- [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
+  
 ## Wallets
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com/walletapp/)
