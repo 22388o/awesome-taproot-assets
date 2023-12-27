@@ -205,7 +205,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with Taproot Assets
 - [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
 
-## Libraries
+## Libraries and Daemon
 
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
   
