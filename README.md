@@ -44,7 +44,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - APIs
 - GameFi
 - Compatible with DLCs
-- Centralized Exchanges 
+- Centralized Exchanges
+- Asset Management 
 
 ## Tech Overview
 
