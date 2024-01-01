@@ -44,7 +44,8 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - APIs
 - GameFi
 - Compatible with DLCs
-- Centralized Exchanges 
+- Centralized Exchanges
+- Asset Management 
 
 ## Tech Overview
 
@@ -171,7 +172,8 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Tapping into Taproot Assets #9: Burn from the CLI](https://youtu.be/qBTGxSHpyDo?si=TbbFD85yN270lt1B)
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
-
+- [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
+  
 ## Specifications
 
 - [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
@@ -198,6 +200,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Tapping into Taproot Assets #9: Burn from the CLI](https://youtu.be/qBTGxSHpyDo?si=TbbFD85yN270lt1B)
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
+- [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
   
 ## Books
 
