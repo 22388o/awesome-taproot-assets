@@ -251,6 +251,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
+- [Flash Protocol](https://flashprotocol.xyz/)
 
 
 ## Tools
@@ -312,6 +313,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Diamond Hands](https://www.diamondhands.community)
 - [Node Runners Brasil](https://noderunnersbrasil.com.br/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
+- [Flash Protocol](https://flashprotocol.xyz/)
 
 ## Extra list
 
