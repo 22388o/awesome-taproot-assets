@@ -315,6 +315,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Node Runners Brasil](https://noderunnersbrasil.com.br/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
 - [Flash Protocol](https://flashprotocol.xyz/)
+- [Uniport](http://uniport.network/)
 
 ## Extra list
 
