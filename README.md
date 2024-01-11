@@ -255,7 +255,8 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [UXUY](https://uxuy.com/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
 - [Flash Protocol](https://flashprotocol.xyz/)
-
+- [Taproot Assets](https://taprootassets.app/)
+- [Taproot Exchange](https://taproot.exchange/home)
 
 ## Tools
 
@@ -282,9 +283,11 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
  
 - [THNDR Games](https://www.thndr.games/)
   
-## Tokenized Securities
+## Tokenized Securities and Asset Management 
 
 - [Hayek Dynamics](https://hayekdynamics.com/)
+- [TNA Protocol](https://tna-btc.com/)
+
 
 ## Rewards
 
@@ -318,6 +321,9 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Lightning Assets](https://www.lightningassets.art/#/account)
 - [Flash Protocol](https://flashprotocol.xyz/)
 - [Uniport](http://uniport.network/)
+- [Taproot Assets](https://taprootassets.app/)
+- [Taproot Exchange](https://taproot.exchange/home)
+- [TNA Protocol](https://tna-btc.com/)
 
 ## Extra list
 
