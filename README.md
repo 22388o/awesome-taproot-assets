@@ -213,6 +213,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 ## Libraries and Daemon
 
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
+
   
 ## Wallets
 
@@ -235,6 +236,7 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Lightning Labs Telegram](https://t.me/lightninglab)
 - [Lightning Labs Slack](https://lightningcommunity.slack.com/join/shared_invite/zt-1pjbf93tz-cxIAWCIror78rOBBinAglg#/shared-invite/)
 - [Lightning Labs Twitter(X)](https://twitter.com/lightning)
+- [Taproot Assets Asia](https://t.me/taprootassets)
 
 ## Cloud
 
