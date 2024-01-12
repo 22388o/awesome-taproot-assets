@@ -60,6 +60,9 @@ The outpoint this minting transaction consumes becomes the genesis_point of the 
 
 To transact assets, the witnesses in the prior transaction are recommitted into one or multiple taproot outputs while the necessary witness data is passed to the recipient. Similar to bitcoin transactions, the remaining balance is spent back to the sender as a change output.
 
+![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/d55c637d-e757-4348-8dec-4fdadacfcc95)
+
+
 ### Architecture
 
 Taproot Assets are implemented as the Taproot Assets Daemon tapd and the Taproot Assets Command Line Interface tapcli. Additionally, tapd exposes a GRPC interface to allow for a direct integration into applications.
@@ -71,6 +74,10 @@ The Taproot Assets stack:
 **Bitcoin blockchain backend <-> LND <-> Taproot Assets**
 
 Custody of Taproot Assets is segmented across LND and Tapd to maximize security. LND holds the private key, which has had a taproot tweak applied to it, controlling the bitcoin UTXO holding the Taproot Asset. The taproot tweak on the other hand is held by Tapd. This increases the requirements for asset recovery as both the internal key as well as the taproot tweak are necessary to spend the output. This prevents LND from accidentally burning Taproot assets.
+
+![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/50fbfe33-6b97-42e4-a256-dbee75b18ad3)
+
+
 
 ### Status software
 
