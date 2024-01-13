@@ -211,7 +211,8 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 - [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
-  
+- [和Taproot Asset协议的提拉米苏钱包的创始人聊一聊，空投怎么发，Adam代币持有人有什么福利？｜未来和RGB融合的可能性](https://www.youtube.com/watch?v=xRPt-Yh6cd0)
+
 ## Books
 
 - [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
