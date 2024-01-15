@@ -85,7 +85,7 @@ Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://g
 
 Versions post v0.3.0-alpha are compatible with initial version, allowing non breaking consensus or lose assets on mainnet/testnet.
 
-Lightning Labs team is working for make Taproot Assets over release Taproot Channels in 2023. Beyond work in smart contracts how happen on RGB.
+Lightning Labs team is working for make Taproot Assets over Lightning Network after release Taproot Channels in 2023. Beyond work in smart contracts how happen on RGB.
 
 ## Lightning Labs Resources
 
