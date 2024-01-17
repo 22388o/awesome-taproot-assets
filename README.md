@@ -168,7 +168,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Bitcoin Ecosystem — The Engine for the Next Bull Market](https://www.bitget.com/blog/articles/bitcoin-ecosystem-the-engine-for-the-next-bull-market)
 - [Quais novas tecnologias devem surgir nos próximos anos no Bitcoin?](https://portaldobitcoin.uol.com.br/quais-novas-tecnologias-devem-surgir-nos-proximos-anos-no-bitcoin/)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem ](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
-
+- [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
 
 ## Tutorial
 
