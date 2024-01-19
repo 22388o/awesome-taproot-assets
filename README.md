@@ -269,6 +269,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Flash Protocol](https://flashprotocol.xyz/)
 - [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
+- [Yellow](https://yellow.money/)
 
 ## Tools
 
@@ -336,6 +337,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
 - [TNA Protocol](https://tna-btc.com/)
+- [Yellow](https://yellow.money/)
 
 ## Extra list
 
