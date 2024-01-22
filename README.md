@@ -292,6 +292,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Nostr Assets Protocol](https://test.nostrassets.com/#/account)
 - Galaxy Digital
 - UB
+- [Eulen](https://eulen.app/)
+
 
  ## NFTs
  
@@ -339,6 +341,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Taproot Exchange](https://taproot.exchange/home)
 - [TNA Protocol](https://tna-btc.com/)
 - [Yellow](https://yellow.money/)
+- [Eulen](https://eulen.app/)
 
 ## Extra list
 
