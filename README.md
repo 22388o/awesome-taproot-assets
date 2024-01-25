@@ -342,6 +342,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [TNA Protocol](https://tna-btc.com/)
 - [Yellow](https://yellow.money/)
 - [Eulen](https://eulen.app/)
+- [Sonc](https://sonc.la/)
 
 ## Extra list
 
