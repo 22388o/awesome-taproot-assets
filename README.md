@@ -271,6 +271,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
 - [Yellow](https://yellow.money/)
+- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 
 ## Tools
 
@@ -343,6 +344,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Yellow](https://yellow.money/)
 - [Eulen](https://eulen.app/)
 - [Sonc](https://sonc.la/)
+- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 
 ## Extra list
 
