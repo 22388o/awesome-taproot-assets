@@ -235,6 +235,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Joltz Wallet](https://www.loom.com/share/ea2edd0294054dae989db5f362f4a846?sid=31b9a7cf-cffe-4941-9aea-0c346b68b90c)
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
+- [Bitmask](https://bitmask.app/)
 
 ## Explorer
 
@@ -345,6 +346,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Eulen](https://eulen.app/)
 - [Sonc](https://sonc.la/)
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
+- [Diba](https://diba.io/)
 
 ## Extra list
 
