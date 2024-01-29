@@ -284,6 +284,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Mega Mint](https://drive.google.com/file/d/1ojftCrY2mPx3C5EX-cyAPcsUrLbetRzE/view?resourcekey&pli=1)
 - [LnTap](https://github.com/uxuycom/lntap)
 - [Lightning Network+](https://lightningnetwork.plus/)
+- [Taproot Assets Metadata Format](https://github.com/snow884/taproot-assets-metadata-format)
 
 
  ## Tokens and Stablecoins
