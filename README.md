@@ -216,6 +216,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 - [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
 - [和Taproot Asset协议的提拉米苏钱包的创始人聊一聊，空投怎么发，Adam代币持有人有什么福利？｜未来和RGB融合的可能性](https://www.youtube.com/watch?v=xRPt-Yh6cd0)
+- [How to withdraw Taproot Assets from Tiramisu wallet](https://www.youtube.com/watch?v=h1jl4SVEo3M)
+- [How to Install taproot assets node on a Linux machine](https://www.youtube.com/watch?v=obqQXlxa1Ws)
 
 ## Books
 
