@@ -187,6 +187,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Tapping into Taproot Assets #10: Burn from the CLI](https://youtu.be/hYUBA-AxrtE?si=Ub8nVxrVn4Xwxb19)
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 - [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
+- [Taproot Assets on Voltage](https://docs.voltage.cloud/guides/taproot-assets-on-voltage)
   
 ## Specifications
 
