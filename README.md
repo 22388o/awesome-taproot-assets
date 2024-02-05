@@ -1,4 +1,4 @@
-# Awesome Taproot Assets ⚡🍠
+# Awesome Taproot Assets ⚡🍠🪙
 
  A curated list of Taproot Assets projects and resources 
  
