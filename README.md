@@ -40,7 +40,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Virtual Machine (VM)
 - NFT Marketplace
 - OTC Exchange
-- Cloud Service
+- Cloud Service (Nodes, LSP)
 - APIs
 - GameFi
 - Compatible with DLCs
