@@ -232,6 +232,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
 - [Tapdash](https://github.com/Nsandomeno/tapdash)
+- [Taproot Assets Bot](https://github.com/snow884/taproot-assets-trading-bots)
 
   
 ## Wallets
