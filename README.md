@@ -49,6 +49,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Custodial services
 - Derivatives
 - Mint services
+- Interoperability 
 
 ## Tech Overview
 
