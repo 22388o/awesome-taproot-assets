@@ -48,7 +48,6 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Asset Management
 - Custodial services
 - Derivatives
-- Mint services
 - Interoperability 
 
 ## Tech Overview
@@ -282,7 +281,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Taproot Exchange](https://taproot.exchange/home)
 - [Yellow](https://yellow.money/)
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
-
+- [Flashnet](http://flashnet.xyz)
+  
 ## Tools
 
 - [Lightning Terminal: Support Taproot Assets](https://github.com/lightninglabs/lightning-terminal)
@@ -357,7 +357,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Sonc](https://sonc.la/)
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Diba](https://diba.io/)
-
+- [Flashnet](http://flashnet.xyz)
+  
 ## Extra list
 
 - [awesome-taproot-asset by Discoco Protocol](https://github.com/Discoco-Protocol/awesome-taproot-asset)
