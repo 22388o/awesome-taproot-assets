@@ -171,6 +171,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Quais novas tecnologias devem surgir nos próximos anos no Bitcoin?](https://portaldobitcoin.uol.com.br/quais-novas-tecnologias-devem-surgir-nos-proximos-anos-no-bitcoin/)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem ](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
 - [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
+- [Flash Protocol x LeverFi: Empowering Decentralized Asset Issuance and Trading in the BTC Ecosystem](https://medium.com/leverfi/flash-protocol-x-leverfi-empowering-decentralized-asset-issuance-and-trading-in-the-btc-ecosystem-74261dd71845)
 
 ## Tutorial
 
@@ -282,6 +283,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Yellow](https://yellow.money/)
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Flashnet](http://flashnet.xyz)
+- [Flash Protocol](https://flashprotocol.xyz)
+- [LeverFi](https://www.leverfi.io/)
   
 ## Tools
 
@@ -358,6 +361,8 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Diba](https://diba.io/)
 - [Flashnet](http://flashnet.xyz)
+- [Flash Protocol](https://flashprotocol.xyz)
+- [LeverFi](https://www.leverfi.io/)
   
 ## Extra list
 
