@@ -221,6 +221,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [How to withdraw Taproot Assets from Tiramisu wallet](https://www.youtube.com/watch?v=h1jl4SVEo3M)
 - [How to Install taproot assets node on a Linux machine](https://www.youtube.com/watch?v=obqQXlxa1Ws)
 - [Minting NFT a taproot assets NFT collection with Tiramisu Wallet](https://www.youtube.com/watch?v=6fDShbLxhno)
+- [ Navigating Your Node with Terminal #1: Install & Connect](https://www.youtube.com/watch?v=XibPhZtNQak&list=PL-3jjRT_28SgFlWoNdTjCT3yz1v5ecQU7)
 
 ## Books
 
