@@ -27,7 +27,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Stablecoins (aka. Centralized like USDC and USDT)
 - Stablecoins algorithm 
 - Sythentic stablecoins
-- Atomic Swap
+- Atomic Swap (between taproot assets only)
 - Explorers
 - Submarine Swap
 - Wallets
