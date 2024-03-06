@@ -247,7 +247,6 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
 - [Bitmask](https://bitmask.app/)
-- UTXO Wallet
 
 ## Explorer
 
@@ -361,7 +360,6 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 - [Yellow](https://yellow.money/)
 - [Eulen](https://eulen.app/)
 - [Sonc](https://sonc.la/)
-- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Diba](https://diba.io/)
 - [Flashnet](http://flashnet.xyz)
 - [Flash Protocol](https://flashprotocol.xyz)
