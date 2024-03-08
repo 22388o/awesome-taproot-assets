@@ -243,7 +243,7 @@ Lightning Labs team is working for make Taproot Assets over Lightning Network af
 
 - [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
-- [Joltz Wallet](https://www.loom.com/share/ea2edd0294054dae989db5f362f4a846?sid=31b9a7cf-cffe-4941-9aea-0c346b68b90c)
+- [Joltz Wallet](https://wallet.joltz.app/)
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
 - [Bitmask](https://bitmask.app/)
