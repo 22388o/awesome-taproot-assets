@@ -43,6 +43,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Cloud Service (Nodes, LSP)
 - APIs
 - GameFi
+- System points
 - Compatible with DLCs
 - Centralized Exchanges
 - Asset Management
