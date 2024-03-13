@@ -90,6 +90,10 @@ Versions post v0.3.0-alpha are compatible with initial version, allowing non bre
 
 Lightning Labs team is working for make Taproot Assets over Lightning Network after release Taproot Channels in 2023. Beyond work in smart contracts how happen on RGB. In the last version (0.3.3-alpha), now people need run Universe to see assets how described "Most notably, the process of sending+receiving proof files when sending+receiving assets is now more robust. In addition, the resource requirements for running a public Universe server have been reduced."
 
+Lightning Labs is working in a trustless exchange thought LND and [vPSBT](https://docs.google.com/presentation/d/19tKe9o_VNEgc2hbZ01hWGiOWQHdlYvoUuHcjSnM0HSE/edit?pli=1#slide=id.p)
+
+More information from Community call last [March 7](https://docs.google.com/document/d/1ijv9-UAmVs9jyTzvVD6X8QkpRk9c0zGRoBsrgm3bM2A/edit#heading=h.rk4hd1xm58)
+
 ## Lightning Labs Resources
 
 - [Documentation](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
