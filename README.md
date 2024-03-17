@@ -229,6 +229,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Navigating Your Node with Terminal #1: Install & Connect](https://www.youtube.com/watch?v=XibPhZtNQak&list=PL-3jjRT_28SgFlWoNdTjCT3yz1v5ecQU7)
 - [Buy Taproot Assets with Tiramisu Wallet - how to deposit, withdraw and trade](https://www.youtube.com/watch?v=5ykR6VwP4os)
 - [Taproot Assets Protocol - overview of existing coins and NFTs](https://www.youtube.com/watch?v=Iu8-vxB1BTY)
+- [Joltz Wallet: First Non-Custodial Bitcoin & Taproot Assets Wallet](https://www.youtube.com/watch?v=-wVv4R5u9P4)
 
 ## Books
 
