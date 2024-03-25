@@ -232,6 +232,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Buy Taproot Assets with Tiramisu Wallet - how to deposit, withdraw and trade](https://www.youtube.com/watch?v=5ykR6VwP4os)
 - [Taproot Assets Protocol - overview of existing coins and NFTs](https://www.youtube.com/watch?v=Iu8-vxB1BTY)
 - [Joltz Wallet: First Non-Custodial Bitcoin & Taproot Assets Wallet](https://www.youtube.com/watch?v=-wVv4R5u9P4)
+- [Tiramisu Wallet Review [Buy Sell Mint BTC layer 2 Taproot assets)](https://www.youtube.com/watch?v=TmKfX7SBNnI)
 
 ## Books
 
