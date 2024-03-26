@@ -246,6 +246,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
 - [Tapdash](https://github.com/Nsandomeno/tapdash)
 - [Taproot Assets Bot](https://github.com/snow884/taproot-assets-trading-bots)
+- [Tiramisu Wallet Client API](https://pypi.org/project/tiramisu-wallet-client/)
 
   
 ## Wallets
