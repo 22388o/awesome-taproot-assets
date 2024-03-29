@@ -38,6 +38,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Exchanges with centralized solutions
 - Lightning Service Provider for Taproot Assets
 - Virtual Machine (VM)
+- Nodes (LND)
 - NFT Marketplace
 - OTC Exchange
 - Cloud Service (Nodes, LSP)
