@@ -234,6 +234,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets Protocol - overview of existing coins and NFTs](https://www.youtube.com/watch?v=Iu8-vxB1BTY)
 - [Joltz Wallet: First Non-Custodial Bitcoin & Taproot Assets Wallet](https://www.youtube.com/watch?v=-wVv4R5u9P4)
 - [Tiramisu Wallet Review (Buy Sell Mint BTC layer 2 Taproot assets)](https://www.youtube.com/watch?v=TmKfX7SBNnI)
+- [Bitcoin & Lightning Multiasset Networks with Taproot Assets (Oliver Gugger @ Adopting Bitcoin Conf.)](https://www.youtube.com/watch?v=wG8U-IhlDtQ)
 
 ## Books
 
