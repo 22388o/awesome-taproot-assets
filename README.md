@@ -285,7 +285,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 ## Exchanges
 
-- [L2.Auction](https://l2.auction/)
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Nostr Assets Protocol](https://doc.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
