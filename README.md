@@ -377,6 +377,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Flashnet](http://flashnet.xyz)
 - [Flash Protocol](https://flashprotocol.xyz)
 - [LeverFi](https://www.leverfi.io/)
+- [Gate.io](https://www.gate.io/en/inscription/bitcoin/taproot%20asset)
   
 ## Extra list
 
