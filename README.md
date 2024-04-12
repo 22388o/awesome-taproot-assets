@@ -77,7 +77,7 @@ Taproot Assets leverage several LND features including the Taproot wallet and si
 
 The Taproot Assets stack:
 
-**Bitcoin blockchain backend <-> LND <-> Taproot Assets**
+**Bitcoin blockchain backend (layer 1) <-> LND (layer 2) <-> Taproot Assets**
 
 Custody of Taproot Assets is segmented across LND and Tapd to maximize security. LND holds the private key, which has had a taproot tweak applied to it, controlling the bitcoin UTXO holding the Taproot Asset. The taproot tweak on the other hand is held by Tapd. This increases the requirements for asset recovery as both the internal key as well as the taproot tweak are necessary to spend the output. This prevents LND from accidentally burning Taproot assets.
 
