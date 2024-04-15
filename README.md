@@ -97,6 +97,12 @@ Lightning Labs is working in a trustless exchange thought LND and [vPSBT](https:
 
 More information from Community call last [March 7](https://docs.google.com/document/d/1ijv9-UAmVs9jyTzvVD6X8QkpRk9c0zGRoBsrgm3bM2A/edit#heading=h.rk4hd1xm58)
 
+
+## Standards
+
+- Non fungible tokens (NFTs)
+- Fungible tokens
+
 ## Lightning Labs Resources
 
 - [Documentation](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
