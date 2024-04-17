@@ -188,6 +188,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Flash Protocol x LeverFi: Empowering Decentralized Asset Issuance and Trading in the BTC Ecosystem](https://medium.com/leverfi/flash-protocol-x-leverfi-empowering-decentralized-asset-issuance-and-trading-in-the-btc-ecosystem-74261dd71845)
 - [Taproot Assets Structure](https://stacker.news/items/460297)
 - [What Does Lightning’s Taproot Assets Mean for Stacks?](https://www.hiro.so/blog/what-does-lightnings-taproot-assets-mean-for-stacks)
+- [Unlocking Possibilities: Exploring Taproot Assets Protocol on the Bitcoin Blockchain](https://medium.com/@anisotropic45/unlocking-possibilities-exploring-taproot-assets-protocol-on-the-bitcoin-blockchain-3f1bc454a20e)
 
 ## Tutorial
 
