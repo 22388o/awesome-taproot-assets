@@ -272,6 +272,11 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Speed](https://www.speed.app/)
 - [Bitmask](https://bitmask.app/)
 
+## Issues tokens platform
+
+- Tiramisu Walet
+- Joltz Wallet
+
 ## Explorer
 
 - [Taproot Assets Explorer by Rollo](https://explorer.royllo.org/)
