@@ -405,6 +405,10 @@ Authors of this list is not responsible for eventual issues with third party pro
 
 Please do your own research
 
+## My other lists
+
+[Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol)
+
 ## Contributors
 
 <a align="center" href="https://github.com/22388o/awesome-taproot-assets/graphs/contributors">
