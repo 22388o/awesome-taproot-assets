@@ -246,6 +246,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Joltz Wallet: First Non-Custodial Bitcoin & Taproot Assets Wallet](https://www.youtube.com/watch?v=-wVv4R5u9P4)
 - [Tiramisu Wallet Review (Buy Sell Mint BTC layer 2 Taproot assets)](https://www.youtube.com/watch?v=TmKfX7SBNnI)
 - [Bitcoin & Lightning Multiasset Networks with Taproot Assets (Oliver Gugger @ Adopting Bitcoin Conf.)](https://www.youtube.com/watch?v=wG8U-IhlDtQ)
+- [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
 
 ## Books
 
