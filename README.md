@@ -99,7 +99,7 @@ Lightning Labs is working in a trustless exchange thought LND and [vPSBT](https:
 
 More information from Community call last [March 7](https://docs.google.com/document/d/1ijv9-UAmVs9jyTzvVD6X8QkpRk9c0zGRoBsrgm3bM2A/edit#heading=h.rk4hd1xm58)
 
-
+[CTO at Lightning Labs made first Taproot Assets Channels between tokens](https://x.com/roasbeef/status/1786043468164337951?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
 ## Standards
 
 - Non fungible tokens (NFTs)
