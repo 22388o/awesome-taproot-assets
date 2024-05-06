@@ -1,6 +1,6 @@
 # Awesome Taproot Assets ⚡🍠🪙
 
- A curated list of Taproot Assets projects and resources 
+ >A curated list of Taproot Assets projects and resources 
  
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
