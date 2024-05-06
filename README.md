@@ -247,6 +247,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Tiramisu Wallet Review (Buy Sell Mint BTC layer 2 Taproot assets)](https://www.youtube.com/watch?v=TmKfX7SBNnI)
 - [Bitcoin & Lightning Multiasset Networks with Taproot Assets (Oliver Gugger @ Adopting Bitcoin Conf.)](https://www.youtube.com/watch?v=wG8U-IhlDtQ)
 - [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
+- [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
 
 ## Books
 
