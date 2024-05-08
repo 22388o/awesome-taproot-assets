@@ -317,6 +317,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Flashnet](http://flashnet.xyz)
 - [Flash Protocol](https://flashprotocol.xyz)
 - [LeverFi](https://www.leverfi.io/)
+- [Taproot Assets Page](https://megalithic.me/taproot_assets)
   
 ## Tools
 
@@ -395,6 +396,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Flash Protocol](https://flashprotocol.xyz)
 - [LeverFi](https://www.leverfi.io/)
 - [Gate.io](https://www.gate.io/en/inscription/bitcoin/taproot%20asset)
+- [Taproot Assets Page](https://megalithic.me/taproot_assets)
+
   
 ## Extra list
 
