@@ -267,7 +267,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
   
 ## Wallets
 
-- [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com/walletapp/)
+- [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com)
 - [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
 - [Joltz Wallet](https://wallet.joltz.app/)
 - [UXUY](https://uxuy.com/)
@@ -365,7 +365,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 - [Lightning Labs](https://lightning.engineering/)
 - [L2.Auction](https://l2.auction/)
-- [Tiramisu wallet](https://mainnet.tiramisuwallet.com/walletapp/)
+- [Tiramisu wallet](mainnet.tiramisuwallet.com)
 - [Nostr Assets Protocol](http://mainnet.nostrassets.com/)
 - [DFX Swiss](https://dfx.swiss/)
 - [Galaxy Digital](https://www.galaxy.com/)
