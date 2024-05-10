@@ -102,7 +102,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 [CTO at Lightning Labs made first Taproot Assets Channels between tokens on testnet](https://x.com/roasbeef/status/1786043468164337951?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
 
 
-[CTO at Lightning Labs made first Taproot Assets Channels between tokens on Mainnet](https://x.com/roasbeef/status/1788624974728790471)
+[CTO at Lightning Labs made first Taproot Assets Channels between tokens on Mainnet](https://x.com/roasbeef/status/1788624974728790471) with multi assets
 
 ## Standards
 
