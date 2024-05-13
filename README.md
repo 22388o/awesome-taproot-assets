@@ -291,6 +291,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Universe Taproot Assets by Lightning Labs](https://terminal.lightning.engineering/assets/mainnet/index.html)
 - [Universe Taproot Assets by UXUY](https://uxuy.com/taproot)
 - [Universe Taproot Assets by Tiramisu wallet](https://universe.tiramisuwallet.com)
+- [Taproot Assets Explorer by Megalithic](https://megalithic.me/taproot_assets_explorer)
 
 ## Community
 
