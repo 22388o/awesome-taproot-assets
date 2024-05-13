@@ -195,6 +195,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets Structure](https://stacker.news/items/460297)
 - [What Does Lightning’s Taproot Assets Mean for Stacks?](https://www.hiro.so/blog/what-does-lightnings-taproot-assets-mean-for-stacks)
 - [Unlocking Possibilities: Exploring Taproot Assets Protocol on the Bitcoin Blockchain](https://medium.com/@anisotropic45/unlocking-possibilities-exploring-taproot-assets-protocol-on-the-bitcoin-blockchain-3f1bc454a20e)
+- [Announcement: NostrAssets upgrades to Lnfi](https://medium.com/@lnfinetwork/announcement-nostrassets-upgrades-to-lnfi-f03b15a79372)
 
 ## Tutorial
 
@@ -309,7 +310,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 ## Exchanges
 
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
-- [Nostr Assets Protocol](https://doc.nostrassets.com/)
+- [Lnfi](https://lnfi.network/lander/)
 - [DFX Swiss](https://dfx.swiss/)
 - [UXUY](https://uxuy.com/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
@@ -370,7 +371,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lightning Labs](https://lightning.engineering/)
 - [L2.Auction](https://l2.auction/)
 - [Tiramisu wallet](mainnet.tiramisuwallet.com)
-- [Nostr Assets Protocol](http://mainnet.nostrassets.com/)
+- [LnFi](https://lnfi.network/lander)
 - [DFX Swiss](https://dfx.swiss/)
 - [Galaxy Digital](https://www.galaxy.com/)
 - [Polar](https://lightningpolar.com)
