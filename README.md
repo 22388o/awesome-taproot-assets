@@ -321,7 +321,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
 - [Yellow](https://yellow.money/)
-- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Flashnet](http://flashnet.xyz)
 - [Flash Protocol](https://flashprotocol.xyz)
 - [LeverFi](https://www.leverfi.io/)
@@ -372,7 +371,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 ## Companies support Taproot Assets
 
 - [Lightning Labs](https://lightning.engineering/)
-- [L2.Auction](https://l2.auction/)
 - [Tiramisu wallet](mainnet.tiramisuwallet.com)
 - [LnFi](https://lnfi.network/lander)
 - [DFX Swiss](https://dfx.swiss/)
