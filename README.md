@@ -103,7 +103,9 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 
 [CTO at Lightning Labs made first Taproot Assets Channels between tokens on Mainnet](https://x.com/roasbeef/status/1788624974728790471) with multi assets
+
 [CTO at Lightning Labs made first mainnet asset swaps with Taproot Assets Channel](https://x.com/roasbeef/status/1791171395336192174?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
+
 ## Standards
 
 - Non fungible tokens (NFTs)
