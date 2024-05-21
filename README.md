@@ -309,6 +309,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 ## Nodes
 
 - [LND](https://github.com/lightningnetwork/lnd)
+- [MicroNode](https://docs.lnfi.network/micronode-early-access)
 
 ## Exchanges
 
