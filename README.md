@@ -198,6 +198,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [What Does Lightning’s Taproot Assets Mean for Stacks?](https://www.hiro.so/blog/what-does-lightnings-taproot-assets-mean-for-stacks)
 - [Unlocking Possibilities: Exploring Taproot Assets Protocol on the Bitcoin Blockchain](https://medium.com/@anisotropic45/unlocking-possibilities-exploring-taproot-assets-protocol-on-the-bitcoin-blockchain-3f1bc454a20e)
 - [Announcement: NostrAssets upgrades to Lnfi](https://medium.com/@lnfinetwork/announcement-nostrassets-upgrades-to-lnfi-f03b15a79372)
+- [Joltz Launches Wallet and SDK, Making Taproot Assets Accessible to All](https://finance.yahoo.com/news/joltz-launches-wallet-sdk-making-111100641.html?guccounter=1)
 
 ## Tutorial
 
