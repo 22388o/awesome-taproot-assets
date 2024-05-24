@@ -54,7 +54,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Interoperability (UTXO chains)
 - AI compatible tech
 - MiniDEX with swaps
-- Identities
+- Identities (aka. Nostr, PGP...)
 
 ## Tech Overview
 
