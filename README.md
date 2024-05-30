@@ -201,6 +201,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Joltz Launches Wallet and SDK, Making Taproot Assets Accessible to All](https://finance.yahoo.com/news/joltz-launches-wallet-sdk-making-111100641.html?guccounter=1)
 - [Lightning Labs CTO Conducts First Mainnet Multi-Hop Asset Payment via Taproot Asset Channels](https://news.bitcoin.com/lightning-labs-cto-conducts-first-mainnet-multi-hop-asset-payment-via-taproot-asset-channels/)
 - [Lightning Labs Paving the Way to Bring Stablecoins to Bitcoin](https://cryptonews.com/news/lightning-labs-bring-stablecoins-to-bitcoin.htm)
+- [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
 
 ## Tutorial
 
