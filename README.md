@@ -203,6 +203,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lightning Labs Paving the Way to Bring Stablecoins to Bitcoin](https://cryptonews.com/news/lightning-labs-bring-stablecoins-to-bitcoin.htm)
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
 - [LightningFi #1 — Global Lightning Adoption with Channel Mining](https://lnfinetwork.medium.com/lightningfi-1-global-lightning-adoption-with-channel-mining-9dd7f2e2645e)
+- [The Power of Taproot Assets: A new way of managing Digital Assets](https://www.cypherpunktimes.com/the-power-of-taproot-assets-a-new-way-of-managing-digital-assets/)
+- 
 
 ## Tutorial
 
@@ -343,6 +345,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [LnTap](https://github.com/uxuycom/lntap)
 - [Lightning Network+](https://lightningnetwork.plus/)
 - [Taproot Assets Metadata Format](https://github.com/snow884/taproot-assets-metadata-format)
+- [Taproot Assets Bot](https://stacker.news/items/560847)
 
 
  ## Tokens and Stablecoins
