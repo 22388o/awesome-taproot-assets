@@ -6,6 +6,7 @@
 
 ![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/b75f91c3-1b38-448b-b635-f271230edafa)
 
+**Contributions are welcome**
 
 ## What is Taproot Assets? 
 
