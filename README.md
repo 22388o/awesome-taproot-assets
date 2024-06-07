@@ -154,6 +154,10 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 - [Bitcoinizing the Dollar, and the World, with Lightning 💸⚡🌍](https://lightninglabs.substack.com/p/bitcoinizing-the-dollar-and-the-world)
 
+- [Rfq Service](https://lightning.engineering/api-docs/category/rfq-service/index.html)
+
+- [Taproot Assets Channels Service](https://lightning.engineering/api-docs/category/taprootassetchannels-service)
+
 
 ## Articles
 
