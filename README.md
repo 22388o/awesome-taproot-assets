@@ -209,7 +209,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
 - [LightningFi #1 — Global Lightning Adoption with Channel Mining](https://lnfinetwork.medium.com/lightningfi-1-global-lightning-adoption-with-channel-mining-9dd7f2e2645e)
 - [The Power of Taproot Assets: A new way of managing Digital Assets](https://www.cypherpunktimes.com/the-power-of-taproot-assets-a-new-way-of-managing-digital-assets/)
-- 
+- [Launching the Future: LN Ecosystem and LN Alliance to Drive Bitcoin Lightning Network Adoption and Innovation](https://lnfinetwork.medium.com/launching-the-future-ln-ecosystem-and-ln-alliance-to-drive-bitcoin-lightning-network-adoption-and-3f186caaf951)
 
 ## Tutorial
 
@@ -417,6 +417,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [LeverFi](https://www.leverfi.io/)
 - [Gate.io](https://www.gate.io/en/inscription/bitcoin/taproot%20asset)
 - [Taproot Assets Page](https://megalithic.me/taproot_assets)
+- [Amboss.Space](https://amboss.tech/)
 
   
 ## Extra list
