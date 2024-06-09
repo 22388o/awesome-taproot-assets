@@ -210,6 +210,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [LightningFi #1 — Global Lightning Adoption with Channel Mining](https://lnfinetwork.medium.com/lightningfi-1-global-lightning-adoption-with-channel-mining-9dd7f2e2645e)
 - [The Power of Taproot Assets: A new way of managing Digital Assets](https://www.cypherpunktimes.com/the-power-of-taproot-assets-a-new-way-of-managing-digital-assets/)
 - [Launching the Future: LN Ecosystem and LN Alliance to Drive Bitcoin Lightning Network Adoption and Innovation](https://lnfinetwork.medium.com/launching-the-future-ln-ecosystem-and-ln-alliance-to-drive-bitcoin-lightning-network-adoption-and-3f186caaf951)
+- [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
 
 ## Tutorial
 
@@ -322,6 +323,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 - [LND](https://github.com/lightningnetwork/lnd)
 - [MicroNode](https://docs.lnfi.network/micronode-early-access)
+- [Amboss.Space](https://amboss.tech/)
 
 ## Exchanges
 
