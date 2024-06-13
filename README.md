@@ -421,6 +421,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Gate.io](https://www.gate.io/en/inscription/bitcoin/taproot%20asset)
 - [Taproot Assets Page](https://megalithic.me/taproot_assets)
 - [Amboss.Space](https://amboss.tech/)
+- [FewSats](https://www.fewsats.com/)
 
   
 ## Extra list
