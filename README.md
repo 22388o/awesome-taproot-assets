@@ -269,6 +269,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Bitcoin & Lightning Multiasset Networks with Taproot Assets (Oliver Gugger @ Adopting Bitcoin Conf.)](https://www.youtube.com/watch?v=wG8U-IhlDtQ)
 - [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
 - [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
+- [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
 
 ## Books
 
@@ -354,6 +355,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lightning Network+](https://lightningnetwork.plus/)
 - [Taproot Assets Metadata Format](https://github.com/snow884/taproot-assets-metadata-format)
 - [Taproot Assets Bot](https://stacker.news/items/560847)
+- [BTC Ecosystem Tools](https://3p-labs.com/)
 
 
  ## Tokens and Stablecoins
