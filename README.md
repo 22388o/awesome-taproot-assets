@@ -212,6 +212,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [The Power of Taproot Assets: A new way of managing Digital Assets](https://www.cypherpunktimes.com/the-power-of-taproot-assets-a-new-way-of-managing-digital-assets/)
 - [Launching the Future: LN Ecosystem and LN Alliance to Drive Bitcoin Lightning Network Adoption and Innovation](https://lnfinetwork.medium.com/launching-the-future-ln-ecosystem-and-ln-alliance-to-drive-bitcoin-lightning-network-adoption-and-3f186caaf951)
 - [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
+- [Client-Side Validation Protocol](https://rooch.network/learn/in-depth-tech/client-side-validation)
+- [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
 
 ## Tutorial
 
@@ -269,8 +271,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Bitcoin & Lightning Multiasset Networks with Taproot Assets (Oliver Gugger @ Adopting Bitcoin Conf.)](https://www.youtube.com/watch?v=wG8U-IhlDtQ)
 - [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
 - [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
-- [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
-- [Lightning Labs has tested Taproot Assets-based stablecoin transactions on the bitcoin network](https://getblock.net/en/news/lightning-labs-has-tested-taproot-assets-based-stablecoin-transactions-on-the-bitcoin-network)
+
 
 ## Books
 
