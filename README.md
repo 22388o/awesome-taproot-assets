@@ -270,6 +270,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
 - [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
+- [Lightning Labs has tested Taproot Assets-based stablecoin transactions on the bitcoin network](https://getblock.net/en/news/lightning-labs-has-tested-taproot-assets-based-stablecoin-transactions-on-the-bitcoin-network)
 
 ## Books
 
