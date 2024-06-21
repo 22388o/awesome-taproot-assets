@@ -214,6 +214,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
 - [Client-Side Validation Protocol](https://rooch.network/learn/in-depth-tech/client-side-validation)
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
+- [Taproot Assets - River Glossary](https://river.com/learn/terms/t/taro/)
 
 ## Tutorial
 
