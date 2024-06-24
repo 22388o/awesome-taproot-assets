@@ -215,6 +215,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Client-Side Validation Protocol](https://rooch.network/learn/in-depth-tech/client-side-validation)
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
 - [Taproot Assets - River Glossary](https://river.com/learn/terms/t/taro/)
+- [Bitcoin Lightning Alliance To Accelerate Adoption Using New Asset Protocol](https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol)
 
 ## Tutorial
 
