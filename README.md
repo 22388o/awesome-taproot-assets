@@ -108,6 +108,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 [CTO at Lightning Labs made first mainnet asset swaps with Taproot Assets Channel](https://x.com/roasbeef/status/1791171395336192174?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
 
+[Lightning Labs released EXPERIMENTAL: Lightning Terminal v0.13.2-alpha.rc1 with Taproot Assets to Lightning Network](https://github.com/lightninglabs/lightning-terminal/releases/tag/v0.14.0-alpha.rc1)
+
 ## Standards
 
 - Non fungible tokens (NFTs)
