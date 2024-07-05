@@ -276,6 +276,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Comparing Runes & Taproot Assets with Linden Stark - CTO at Joltz Rewards](https://www.youtube.com/watch?v=Tyu9doo8K5A)
 - [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
 - [The Truth About Bitcoin Scaling with niftynei](https://www.youtube.com/watch?v=9MYp88Ii84A)
+- [All Roads Lead to Lightning - Bitcoin Asia](https://www.youtube.com/watch?v=omamm4XoUfo)
 
 
 ## Books
