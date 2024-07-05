@@ -88,7 +88,6 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 ![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/50fbfe33-6b97-42e4-a256-dbee75b18ad3)
 
 
-
 ### Status software
 
 Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0) (Knowing also there's risks using alpha daemon)
