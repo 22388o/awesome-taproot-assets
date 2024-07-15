@@ -284,7 +284,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
 - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with Taproot Assets
 - [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
-
+- [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
 ## Libraries and Daemon
 
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
