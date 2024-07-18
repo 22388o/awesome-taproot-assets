@@ -217,6 +217,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
 - [Taproot Assets - River Glossary](https://river.com/learn/terms/t/taro/)
 - [Bitcoin Lightning Alliance To Accelerate Adoption Using New Asset Protocol](https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol)
+- [Lightning Network, Taproot Assets, and Nostr Merchandise Contest](https://medium.com/@nostrcommunity/lightning-network-taproot-assets-and-nostr-merchandise-contest-d4c3e7f03860)
 
 ## Tutorial
 
@@ -276,6 +277,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets - Oliver Gugger - AB24CPT Day 2 - Machankura Stage](https://www.youtube.com/watch?v=qV4ysnT9hC8)
 - [The Truth About Bitcoin Scaling with niftynei](https://www.youtube.com/watch?v=9MYp88Ii84A)
 - [All Roads Lead to Lightning - Bitcoin Asia](https://www.youtube.com/watch?v=omamm4XoUfo)
+- [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
 
 
 ## Books
@@ -284,7 +286,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
 - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with Taproot Assets
 - [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
-- [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
+
 ## Libraries and Daemon
 
 - [Taproot Assets Daemon](https://pkg.go.dev/github.com/lightninglabs/taproot-assets)
