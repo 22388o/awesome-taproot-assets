@@ -218,6 +218,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets - River Glossary](https://river.com/learn/terms/t/taro/)
 - [Bitcoin Lightning Alliance To Accelerate Adoption Using New Asset Protocol](https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol)
 - [Lightning Network, Taproot Assets, and Nostr Merchandise Contest](https://medium.com/@nostrcommunity/lightning-network-taproot-assets-and-nostr-merchandise-contest-d4c3e7f03860)
+- [Elizabeth Stark: Pioneering Bitcoin Scalability with Lightning Network](https://www.crypto-news-flash.com/elizabeth-stark-pioneering-bitcoin-scalability-with-lightning-network/)
 
 ## Tutorial
 
