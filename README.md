@@ -108,6 +108,9 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 [Lightning Labs released Lightning Terminal v0.13.2-alpha compatible with Taproot Assets](https://github.com/lightninglabs/lightning-terminal/releases/tag/v0.13.2-alpha)
 
+[Lightning Labs release multi hop assets on the mainnet with Lightning Network and Layer 1](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+
+
 ## Standards
 
 - Non fungible tokens (NFTs)
@@ -159,6 +162,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Rfq Service](https://lightning.engineering/api-docs/category/rfq-service/index.html)
 
 - [Taproot Assets Channels Service](https://lightning.engineering/api-docs/category/taprootassetchannels-service)
+
+- [Taproot Assets on Lightning: The Global Financial Interoperability Layer ⚡💱](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
 
 
 ## Articles
@@ -219,6 +224,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Bitcoin Lightning Alliance To Accelerate Adoption Using New Asset Protocol](https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol)
 - [Lightning Network, Taproot Assets, and Nostr Merchandise Contest](https://medium.com/@nostrcommunity/lightning-network-taproot-assets-and-nostr-merchandise-contest-d4c3e7f03860)
 - [Elizabeth Stark: Pioneering Bitcoin Scalability with Lightning Network](https://www.crypto-news-flash.com/elizabeth-stark-pioneering-bitcoin-scalability-with-lightning-network/)
+- [Taproot Assets on Lightning: The Global Financial Interoperability Layer ⚡💱](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
 
 ## Tutorial
 
@@ -352,6 +358,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Flash Protocol](https://flashprotocol.xyz)
 - [LeverFi](https://www.leverfi.io/)
 - [Taproot Assets Page](https://megalithic.me/taproot_assets)
+- [Bittap](https://www.bittap.org/)
   
 ## Tools
 
@@ -433,7 +440,9 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Gate.io](https://www.gate.io/en/inscription/bitcoin/taproot%20asset)
 - [Taproot Assets Page](https://megalithic.me/taproot_assets)
 - [Amboss.Space](https://amboss.tech/)
+- [Megalith](https://megalithic.me/)
 - [FewSats](https://www.fewsats.com/)
+- [Bittap](https://www.bittap.org/)
 
   
 ## Extra list
