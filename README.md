@@ -225,6 +225,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lightning Network, Taproot Assets, and Nostr Merchandise Contest](https://medium.com/@nostrcommunity/lightning-network-taproot-assets-and-nostr-merchandise-contest-d4c3e7f03860)
 - [Elizabeth Stark: Pioneering Bitcoin Scalability with Lightning Network](https://www.crypto-news-flash.com/elizabeth-stark-pioneering-bitcoin-scalability-with-lightning-network/)
 - [Taproot Assets on Lightning: The Global Financial Interoperability Layer ⚡💱](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
+- [Stablecoins Are Coming To Bitcoin's Lightning Network](https://bitcoinmagazine.com/technical/stablecoins-are-coming-to-bitcoins-lightning-network)
 
 ## Tutorial
 
