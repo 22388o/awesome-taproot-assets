@@ -56,6 +56,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - MiniDEX with swaps
 - Taproot
 - Identities (aka. Nostr, PGP...)
+- RWAs
 
 ## Tech Overview
 
