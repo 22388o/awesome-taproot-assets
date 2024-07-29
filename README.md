@@ -18,7 +18,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 ### Potential Use Case
 
 - RWAs
-- Smart contracts like RGB
+- Smart contracts with Bitcoin script
 - Bitcoin as Collateral
 - NFTs
 - NFT Marketplace
