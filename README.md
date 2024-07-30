@@ -225,6 +225,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Elizabeth Stark: Pioneering Bitcoin Scalability with Lightning Network](https://www.crypto-news-flash.com/elizabeth-stark-pioneering-bitcoin-scalability-with-lightning-network/)
 - [Taproot Assets on Lightning: The Global Financial Interoperability Layer ⚡💱](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
 - [Stablecoins Are Coming To Bitcoin's Lightning Network](https://bitcoinmagazine.com/technical/stablecoins-are-coming-to-bitcoins-lightning-network)
+- [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 
 ## Tutorial
 
