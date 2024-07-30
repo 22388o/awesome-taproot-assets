@@ -243,6 +243,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Tapping into Taproot Assets #11: Update Tapd](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 - [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
 - [Taproot Assets on Voltage](https://docs.voltage.cloud/guides/taproot-assets-on-voltage)
+- [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
   
 ## Specifications
 
@@ -286,7 +287,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [The Truth About Bitcoin Scaling with niftynei](https://www.youtube.com/watch?v=9MYp88Ii84A)
 - [All Roads Lead to Lightning - Bitcoin Asia](https://www.youtube.com/watch?v=omamm4XoUfo)
 - [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
-
+- [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
 
 ## Books
 
