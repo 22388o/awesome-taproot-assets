@@ -244,7 +244,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Tapping into Taproot Assets- Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&si=htdifsKVQ4rIpp_C)
 - [Taproot Assets on Voltage](https://docs.voltage.cloud/guides/taproot-assets-on-voltage)
 - [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
-  
+- [Running a Taproot Assets Edge Node](https://www.youtube.com/watch?v=_cC0Qco48Ww)
+
 ## Specifications
 
 - [Lightning Network Specification](https://github.com/lightningnetwork/lightning-rfc)
@@ -288,6 +289,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [All Roads Lead to Lightning - Bitcoin Asia](https://www.youtube.com/watch?v=omamm4XoUfo)
 - [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
 - [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
+- [Running a Taproot Assets Edge Node](https://www.youtube.com/watch?v=_cC0Qco48Ww)
 
 ## Books
 
