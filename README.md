@@ -314,6 +314,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [UXUY](https://uxuy.com/)
 - [Speed](https://www.speed.app/)
 - [Bitmask](https://bitmask.app/)
+- [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
+
 
 ## Issues tokens platform
 
@@ -446,6 +448,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Megalith](https://megalithic.me/)
 - [FewSats](https://www.fewsats.com/)
 - [Bittap](https://www.bittap.org/)
+- [Bitcoin Numaraire](https://github.com/bitcoin-numeraire/)
 
   
 ## Extra list
