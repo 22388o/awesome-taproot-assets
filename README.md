@@ -226,6 +226,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Stablecoins Are Coming To Bitcoin's Lightning Network](https://bitcoinmagazine.com/technical/stablecoins-are-coming-to-bitcoins-lightning-network)
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 - [Be the First to Bridge USDT to the Lightning Network and Earn Exciting Rewards with LN Bridge!](https://lnfinetwork.medium.com/be-the-first-to-bridge-usdt-to-the-lightning-network-and-earn-exciting-rewards-with-ln-bridge-a7ad2e66b887)
+- [Challenging Stablecoin Platforms: Speed Wallet introduces USDT on Lightning to compete against Ethereum, TRON and SOLANA](https://www.tryspeed.com/blog/speed-wallet-introduces-usdt-on-lightning/)
 
 ## Tutorial
 
