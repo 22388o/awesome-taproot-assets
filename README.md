@@ -44,7 +44,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - APIs
 - GameFi
 - System points
-- Compatible with DLCs
+- Compatible with DLCs & Taproot
 - Centralized Exchanges
 - Asset Management
 - Custodial services 
@@ -52,7 +52,6 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Interoperability (UTXO chains)
 - AI compatible tech
 - MiniDEX with swaps
-- Taproot
 - Identities (aka. Nostr, PGP...)
 
 ## Tech Overview
