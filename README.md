@@ -227,6 +227,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Be the First to Bridge USDT to the Lightning Network and Earn Exciting Rewards with LN Bridge!](https://lnfinetwork.medium.com/be-the-first-to-bridge-usdt-to-the-lightning-network-and-earn-exciting-rewards-with-ln-bridge-a7ad2e66b887)
 - [Challenging Stablecoin Platforms: Speed Wallet introduces USDT on Lightning to compete against Ethereum, TRON and SOLANA](https://www.tryspeed.com/blog/speed-wallet-introduces-usdt-on-lightning/)
 - [Assessing the Lightning Network's Last-Mile Solutions](https://bitcoinmagazine.com/technical/assessing-the-lightning-networks-last-mile-solutions)
+- [Taproot Assets: The next growth point for the stablecoin track to exceed a trillion-dollar market value](https://www.bitget.com/news/detail/12560604162334)
 
 ## Tutorial
 
