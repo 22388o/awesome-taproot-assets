@@ -112,7 +112,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 - Non fungible tokens (NFTs)
 - Fungible tokens
-- Identities?
 
 ## Lightning Labs Resources
 
