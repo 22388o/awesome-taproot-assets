@@ -1,4 +1,4 @@
-# Awesome Taproot Assets ⚡🍠🪙
+# Awesome Taproot Assets ⚡🍠
 
  >A curated list of Taproot Assets projects and resources 
  
@@ -53,6 +53,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - AI compatible tech
 - MiniDEX with swaps
 - Identities (aka. Nostr)
+- 
 
 ## Tech Overview
 
