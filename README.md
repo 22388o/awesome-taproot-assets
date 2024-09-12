@@ -308,6 +308,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets Bot](https://github.com/snow884/taproot-assets-trading-bots)
 - [Tiramisu Wallet Client API](https://pypi.org/project/tiramisu-wallet-client/)
 - [Joltz SDK](https://docs.joltz.app/sdk)
+- [Taproot Assets Playground](https://github.com/LN-Zap/taproot-assets-playground)
 
   
 ## Wallets
