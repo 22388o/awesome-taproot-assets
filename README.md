@@ -229,6 +229,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets: The next growth point for the stablecoin track to exceed a trillion-dollar market value](https://www.bitget.com/news/detail/12560604162334)
 - [Bitcoin Lightning Network and Taproot Assets Explained](https://www.coinlive.com/news/bitcoin-lightning-network-and-taproot-assets-explained)
 - [The Risks of Current Stablecoin Networks: Why Bitcoin and Lightning Offer a Safer Alternative](https://www.voltage.cloud/blog/the-risks-of-current-stablecoin-networks-why-bitcoin-and-lightning-offer-a-safer-alternative)
+- [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
 
 ## Tutorial
 
