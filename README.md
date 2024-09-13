@@ -230,6 +230,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Bitcoin Lightning Network and Taproot Assets Explained](https://www.coinlive.com/news/bitcoin-lightning-network-and-taproot-assets-explained)
 - [The Risks of Current Stablecoin Networks: Why Bitcoin and Lightning Offer a Safer Alternative](https://www.voltage.cloud/blog/the-risks-of-current-stablecoin-networks-why-bitcoin-and-lightning-offer-a-safer-alternative)
 - [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
+- [Evolution of Taro Protocol: Stablecoins and Multi-Asset Transfers With Taproot Assets](https://medium.com/coinmonks/evolution-of-taro-protocol-stablecoins-and-multi-asset-transfers-with-taproot-assets-5f9e6e8e1b32)
 
 ## Tutorial
 
