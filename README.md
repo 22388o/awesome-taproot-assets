@@ -20,9 +20,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - RWAs
 - Smart contracts with Bitcoin script
 - Bitcoin as Collateral
-- NFTs
-- NFT Marketplace
-- NFT auction
+- NFT/NFT Marketplace/NFT auction
 - Crowdfunding
 - Stablecoins (aka. Centralized like USDC and USDT)
 - Stablecoins algorithm 
