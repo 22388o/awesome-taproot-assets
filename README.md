@@ -456,6 +456,9 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Bittap](https://www.bittap.org/)
 - [Bitcoin Numaraire](https://github.com/bitcoin-numeraire/)
 
+## Reference protocols
+
+[Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
   
 ## Extra list
 
