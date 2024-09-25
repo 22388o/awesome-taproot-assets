@@ -51,6 +51,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - AI compatible tech
 - MiniDEX with swaps
 - Identities (aka. Nostr)
+- Cross-assets(Taproot Assets<>RGB)
 
 ## Tech Overview
 
@@ -229,7 +230,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [The Risks of Current Stablecoin Networks: Why Bitcoin and Lightning Offer a Safer Alternative](https://www.voltage.cloud/blog/the-risks-of-current-stablecoin-networks-why-bitcoin-and-lightning-offer-a-safer-alternative)
 - [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
 - [Evolution of Taro Protocol: Stablecoins and Multi-Asset Transfers With Taproot Assets](https://medium.com/coinmonks/evolution-of-taro-protocol-stablecoins-and-multi-asset-transfers-with-taproot-assets-5f9e6e8e1b32)
-
+- [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
+  
 ## Tutorial
 
 - [Taproot Assets Demo: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY)
@@ -455,6 +457,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [FewSats](https://www.fewsats.com/)
 - [Bittap](https://www.bittap.org/)
 - [Bitcoin Numaraire](https://github.com/bitcoin-numeraire/)
+- [Bihelix](https://www.bihelix.net/)
 
 ## Reference protocols
 
