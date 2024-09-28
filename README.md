@@ -30,7 +30,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - Submarine Swap
 - Wallets
 - Rewards
-- Mint Services
+- Mint Services (tokens)
 - Social media (accepting payments via Stablecoins or tokens)
 - Decentralized Exchange via Lightning Node
 - Exchanges with centralized solutions
