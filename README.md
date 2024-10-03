@@ -355,7 +355,8 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [LND](https://github.com/lightningnetwork/lnd)
 - [MicroNode](https://docs.lnfi.network/micronode-early-access)
 - [Amboss.Space](https://amboss.tech/)
-
+- [LnFi](https://lnfi.network/)
+  
 ## Exchanges
 
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
@@ -364,7 +365,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [UXUY](https://uxuy.com/)
 - [Lightning Assets](https://www.lightningassets.art/#/account)
 - [Flash Protocol](https://flashprotocol.xyz/)
-- [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
 - [Yellow](https://yellow.money/)
 - [Flashnet](http://flashnet.xyz)
@@ -422,7 +422,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 
 - [Lightning Labs](https://lightning.engineering/)
 - [Tiramisu wallet](mainnet.tiramisuwallet.com)
-- [LnFi](https://lnfi.network/lander)
+- [LnFi](https://lnfi.network/)
 - [DFX Swiss](https://dfx.swiss/)
 - [Galaxy Digital](https://www.galaxy.com/)
 - [Polar](https://lightningpolar.com)
@@ -441,7 +441,6 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lightning Assets](https://www.lightningassets.art/#/account)
 - [Flash Protocol](https://flashprotocol.xyz/)
 - [Uniport](http://uniport.network/)
-- [Taproot Assets](https://taprootassets.app/)
 - [Taproot Exchange](https://taproot.exchange/home)
 - [TNA Protocol](https://tna-btc.com/)
 - [Yellow](https://yellow.money/)
