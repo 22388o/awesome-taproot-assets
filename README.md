@@ -52,6 +52,7 @@ Taproot Assets relies on Taproot, bitcoin’s most recent upgrade, for a new tre
 - MiniDEX with swaps
 - Identities (aka. Nostr)
 - Cross-assets(Taproot Assets<>RGB)
+- BOLT12 compatible
 
 ## Tech Overview
 
