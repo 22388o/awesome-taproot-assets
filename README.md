@@ -233,6 +233,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [What Is Bitcoin DeFi: The Rise of BTCFi](https://learn.bybit.com/bitcoin/what-is-bitcoin-defi-btcfi/)
 - [Evolution of Taro Protocol: Stablecoins and Multi-Asset Transfers With Taproot Assets](https://medium.com/coinmonks/evolution-of-taro-protocol-stablecoins-and-multi-asset-transfers-with-taproot-assets-5f9e6e8e1b32)
 - [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
+- [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
   
 ## Tutorial
 
