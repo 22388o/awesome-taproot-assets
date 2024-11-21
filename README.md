@@ -234,6 +234,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Evolution of Taro Protocol: Stablecoins and Multi-Asset Transfers With Taproot Assets](https://medium.com/coinmonks/evolution-of-taro-protocol-stablecoins-and-multi-asset-transfers-with-taproot-assets-5f9e6e8e1b32)
 - [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
 - [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
+- [What is the Taproot Assets Protocol (TAP)? A Beginner's Guide](https://www.samara-ag.com/market-insights/taproot-assets-protocol)
   
 ## Tutorial
 
@@ -253,6 +254,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets on Voltage](https://docs.voltage.cloud/guides/taproot-assets-on-voltage)
 - [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
 - [Running a Taproot Assets Edge Node](https://www.youtube.com/watch?v=_cC0Qco48Ww)
+- [Running a Taproot Assets Price Oracle](https://www.youtube.com/watch?v=4iVlDbILLWE)
 
 ## Specifications
 
@@ -298,6 +300,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets LN Channel Setup | Lnfi Network](https://www.youtube.com/watch?v=5xHy2NC5wdM)
 - [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
 - [Running a Taproot Assets Edge Node](https://www.youtube.com/watch?v=_cC0Qco48Ww)
+- [Running a Taproot Assets Price Oracle](https://www.youtube.com/watch?v=4iVlDbILLWE)
 
 ## Books
 
