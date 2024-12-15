@@ -301,6 +301,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Taproot Assets on Lightning ⚡](https://www.youtube.com/watch?v=4ot23hdNwMQ)
 - [Running a Taproot Assets Edge Node](https://www.youtube.com/watch?v=_cC0Qco48Ww)
 - [Running a Taproot Assets Price Oracle](https://www.youtube.com/watch?v=4iVlDbILLWE)
+- [Taproot Assets on Lightning Workshop - TABConf 6](https://www.youtube.com/watch?v=I6qv9lLvdbg)
 
 ## Books
 
