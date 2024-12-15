@@ -235,6 +235,7 @@ More information from Community call last [March 7](https://docs.google.com/docu
 - [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
 - [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
 - [What is the Taproot Assets Protocol (TAP)? A Beginner's Guide](https://www.samara-ag.com/market-insights/taproot-assets-protocol)
+- [Bitcoin Layers: Lightning, RSK, Stacks & Co Explained](https://www.samara-ag.com/market-insights/bitcoin-layers-explained)
   
 ## Tutorial
 
