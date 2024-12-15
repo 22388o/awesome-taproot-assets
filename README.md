@@ -83,31 +83,6 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 ![image](https://github.com/22388o/awesome-taproot-assets/assets/83122757/50fbfe33-6b97-42e4-a256-dbee75b18ad3)
 
-
-### Status software
-
-Taproot Assets is available in testnet and mainnet with [v0.3.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0) (Knowing also there's risks using alpha daemon)
-
-Versions post v0.3.0-alpha are compatible with initial version, allowing non breaking consensus or lose assets on mainnet/testnet.
-
-Lightning Labs team is working for make Taproot Assets over Lightning Network after release Taproot Channels in 2023. Beyond work in smart contracts how happen on RGB. In the last version (0.3.3-alpha), now people need run Universe to see assets how described "Most notably, the process of sending+receiving proof files when sending+receiving assets is now more robust. In addition, the resource requirements for running a public Universe server have been reduced."
-
-Lightning Labs is working in a trustless exchange thought LND and [vPSBT](https://docs.google.com/presentation/d/19tKe9o_VNEgc2hbZ01hWGiOWQHdlYvoUuHcjSnM0HSE/edit?pli=1#slide=id.p)
-
-More information from Community call last [March 7](https://docs.google.com/document/d/1ijv9-UAmVs9jyTzvVD6X8QkpRk9c0zGRoBsrgm3bM2A/edit#heading=h.rk4hd1xm58)
-
-[CTO at Lightning Labs made first Taproot Assets Channels between tokens on testnet](https://x.com/roasbeef/status/1786043468164337951?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
-
-
-[CTO at Lightning Labs made first Taproot Assets Channels between tokens on Mainnet](https://x.com/roasbeef/status/1788624974728790471) with multi assets
-
-[CTO at Lightning Labs made first mainnet asset swaps with Taproot Assets Channel](https://x.com/roasbeef/status/1791171395336192174?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
-
-[Lightning Labs released Lightning Terminal v0.13.2-alpha compatible with Taproot Assets](https://github.com/lightninglabs/lightning-terminal/releases/tag/v0.13.2-alpha)
-
-[Lightning Labs release multi hop assets on the mainnet with Lightning Network and Layer 1](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/)
-
-
 ## Standards
 
 - Non fungible tokens (NFTs)
