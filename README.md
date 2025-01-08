@@ -279,6 +279,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Running a Taproot Assets Price Oracle](https://www.youtube.com/watch?v=4iVlDbILLWE)
 - [Taproot Assets on Lightning Workshop - TABConf 6](https://www.youtube.com/watch?v=I6qv9lLvdbg)
 - [Joltz: Bitcoin Powered Payments Infrastructure](https://www.youtube.com/watch?v=4f7Py8FdG1c)
+- [Taproot Assets: Stablecoins na velocidade da luz](https://www.youtube.com/watch?v=1gYfv25ubDU)
 
 ## Books
 
