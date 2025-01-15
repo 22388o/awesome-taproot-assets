@@ -443,7 +443,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Bitcoin Numaraire](https://github.com/bitcoin-numeraire/)
 - [Bihelix](https://www.bihelix.net/)
 
-## Reference protocols
+## Reference protocols or based
 
 [Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
   
