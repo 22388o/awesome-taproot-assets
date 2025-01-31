@@ -213,7 +213,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
 - [What is the Taproot Assets Protocol (TAP)? A Beginner's Guide](https://www.samara-ag.com/market-insights/taproot-assets-protocol)
 - [Bitcoin Layers: Lightning, RSK, Stacks & Co Explained](https://www.samara-ag.com/market-insights/bitcoin-layers-explained)
-- [ Tether Brings USDt to Bitcoin’s Lightning Network, Ushering in a New Era of Unstoppable Technology](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
+- [Tether Brings USDt to Bitcoin’s Lightning Network, Ushering in a New Era of Unstoppable Technology](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
   
 ## Tutorial
 
@@ -283,6 +283,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Taproot Assets on Lightning Workshop - TABConf 6](https://www.youtube.com/watch?v=I6qv9lLvdbg)
 - [Joltz: Bitcoin Powered Payments Infrastructure](https://www.youtube.com/watch?v=4f7Py8FdG1c)
 - [Taproot Assets: Stablecoins na velocidade da luz](https://www.youtube.com/watch?v=1gYfv25ubDU)
+- [Taproot Assets for Beginners - Minting Assets on the Lightning Network](https://www.youtube.com/watch?v=Bsat0adOvz4)
 
 ## Books
 
