@@ -139,6 +139,8 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 
 - [A New Era for Stablecoins: Tether Is Coming to Bitcoin and Lightning ⚡💸](https://lightning.engineering/posts/2025-01-30-Tether-on-Lightning/)
 
+- [It All Comes Back to Bitcoin: How Stablecoins on Lightning Will Bring Exponential Growth 💸🤝⚡](https://lightninglabs.substack.com/p/it-all-comes-back-to-bitcoin-how)
+
 
 ## Articles
 
