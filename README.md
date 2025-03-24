@@ -306,19 +306,21 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
   
 ## Wallets
 
-- [Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com)
-- [Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)
-- [Joltz Wallet](https://wallet.joltz.app/)
+- ~~[Tiramisu Wallet: Mint, send, Exchange](https://mainnet.tiramisuwallet.com)~~ Does not operate anymore
+- ~~[Tao Wallet: USD for everyone](https://github.com/dannydeezy/tao-wallet)~~ Does not have Taproot Asset
+- ~~[Joltz Wallet](https://wallet.joltz.app/)~~ Is not available anymore
 - [UXUY](https://uxuy.com/)
-- [Speed](https://www.speed.app/)
-- [Bitmask](https://bitmask.app/)
-- [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
+- ~~[Speed](https://www.speed.app/)~~ Is not available anymore
+- ~~[Bitmask](https://bitmask.app/)~~ Does not have Taproot Asset
+- ~~[Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)~~ Does not have Taproot Asset
+- [Tree Root](https://treeroot.xyz)
 
 
 ## Issues tokens platform
 
-- Tiramisu Walet
-- Joltz Wallet
+- ~~Tiramisu Walet~~ Does not operate anymore
+- ~~Joltz Wallet~~ Is not available anymore
+- [Tree Root](https://treeroot.xyz)
 
 ## Explorer
 
@@ -328,6 +330,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Universe Taproot Assets by UXUY](https://uxuy.com/taproot)
 - [Universe Taproot Assets by Tiramisu wallet](https://universe.tiramisuwallet.com)
 - [Taproot Assets Explorer by Megalithic](https://megalithic.me/taproot_assets_explorer)
+- [Tree Root](https://treeroot.xyz)
 
 ## Community
 
@@ -335,6 +338,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Lightning Labs Slack](https://lightningcommunity.slack.com/join/shared_invite/zt-1pjbf93tz-cxIAWCIror78rOBBinAglg#/shared-invite/)
 - [Lightning Labs Twitter(X)](https://twitter.com/lightning)
 - [Taproot Assets Asia](https://t.me/taprootassets)
+- [Tree Root](https://t.me/TreeRootBTC)
 
 ## Cloud
 
@@ -363,6 +367,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Taproot Assets Page](https://megalithic.me/taproot_assets)
 - [Bittap](https://www.bittap.org/)
 - [LN Markets](https://lnmarkets.com/en/)
+- [Tree Root](https://treeroot.xyz)
   
 ## Tools
 
@@ -388,11 +393,13 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - Galaxy Digital
 - UB
 - [Eulen](https://eulen.app/)
+- [Tree Root](https://treeroot.xyz)
 
 
  ## NFTs
  
 - [THNDR Games](https://www.thndr.games/)
+- [Tree Root](https://treeroot.xyz)
   
 ## Tokenized Securities and Asset Management 
 
@@ -449,6 +456,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - [Bitcoin Numaraire](https://github.com/bitcoin-numeraire/)
 - [Bihelix](https://www.bihelix.net/)
 - [Tether](https://tether.to/en/)
+- [Tree Root](https://treeroot.xyz)
 
 ## Reference protocols or based
 
