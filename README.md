@@ -314,6 +314,7 @@ Custody of Taproot Assets is segmented across LND and Tapd to maximize security.
 - ~~[Bitmask](https://bitmask.app/)~~ Does not have Taproot Asset
 - ~~[Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)~~ Does not have Taproot Asset
 - [Tree Root](https://treeroot.xyz)
+- [LNbits Taproot Assets Extension](https://github.com/echennells/taproot_assets)
 
 
 ## Issues tokens platform
